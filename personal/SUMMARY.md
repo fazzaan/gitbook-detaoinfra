@@ -4,10 +4,11 @@
 
 * [Overview](README.md)
 * [📚 GitBook publications](portfolio/gitbook-publications.md)
-* [Graphic design work](portfolio/graphic-design.md)
+* [Linguistics](portfolio/linguistics.md)
 * [English education](portfolio/english-education.md)
-* [⚛️ Science](portfolio/science.md)
+* [⚛️ Science research](portfolio/science-research.md)
 * [🅰️ Font design](portfolio/font-design.md)
+* [Graphic design work](portfolio/graphic-design.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)
 * [🎨 Art](portfolio/art.md)
 * [🎉 Event décor](portfolio/event-decor.md)

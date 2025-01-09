@@ -29,7 +29,7 @@ _Click each row to expand._
 
 ### FarrAndDroid Tech Support
 
-→ 🔗 [Default landing page](https://farranddroid-tech.gitbook.io/) (may change)
+→ 🔗 [Main landing page](https://farranddroid-tech.gitbook.io/)&#x20;
 
 <details>
 
@@ -117,7 +117,9 @@ How to become a “power user” — keyboard shortcuts, touchpad gestures, deep
 
 <summary>📂 File Management</summary>
 
+→ 🔗 [https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/ "mention") website&#x20;
 
+_Site content yet to be imported._&#x20;
 
 </details>
 
@@ -125,7 +127,63 @@ How to become a “power user” — keyboard shortcuts, touchpad gestures, deep
 
 <summary>📱 Android</summary>
 
+→ 🔗 [https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/ "mention") website&#x20;
 
+_Site content yet to be imported._&#x20;
+
+</details>
+
+### Phlowyd Linguistics&#x20;
+
+→ 🔗 Main hub page&#x20;
+
+<details>
+
+<summary>Linguistics Hub — main site </summary>
+
+→ 🔗 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/ "mention") website&#x20;
+
+Nothing here yet — just links to the other linguistics sites.
+
+</details>
+
+<details>
+
+<summary>Pronunciation Mastery</summary>
+
+→ 🔗 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/mOXfBzelIQWeGu5lPOdF/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/mOXfBzelIQWeGu5lPOdF/ "mention") website&#x20;
+
+info&#x20;
+
+sublinks&#x20;
+
+→ 🔗&#x20;
+
+</details>
+
+<details>
+
+<summary>English Spelling</summary>
+
+→ 🔗 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/bFe8K54C9RxCcg3qidk8/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/bFe8K54C9RxCcg3qidk8/ "mention") website&#x20;
+
+info&#x20;
+
+sublinks&#x20;
+
+→ 🔗&#x20;
+
+</details>
+
+<details>
+
+<summary>NewEng Orthography</summary>
+
+→ 🔗 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/ "mention") website&#x20;
+
+info
+
+sublinks&#x20;
 
 </details>
 
