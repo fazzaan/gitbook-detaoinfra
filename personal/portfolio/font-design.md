@@ -6,7 +6,7 @@ description: For fun, for sci-fi & fantasy, for a new English alphabet.
 
 <mark style="color:red;">SIMPLE</mark> portfolio here — only show **each** item and metadata.&#x20;
 
-Link to main portfolio site in phlowyd design gitbook
+Link to **main portfolio** site in phlowyd design gitbook
 
 link to font downloads on github
 
