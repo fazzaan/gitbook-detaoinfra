@@ -9,9 +9,9 @@
 * [⚛️ Science research](portfolio/science-research.md)
 * [🅰️ Font design](portfolio/font-design.md)
 * [Graphic design work](portfolio/graphic-design.md)
-* [🤹 Flow arts](portfolio/flow-arts.md)
 * [🎨 Art](portfolio/art.md)
 * [🎉 Event décor](portfolio/event-decor.md)
+* [🤹 Flow arts](portfolio/flow-arts.md)
 * [🖥️ Computer tools](portfolio/computer-tools.md)
 
 ## Group 1
