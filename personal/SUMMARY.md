@@ -15,6 +15,7 @@
 * [🎉 Event décor](portfolio/event-decor.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)
 * [🖥️ Computer tools](portfolio/computer-tools.md)
+* [📂 Other portfolios](portfolio/other-portfolios.md)
 
 ## Companies
 
