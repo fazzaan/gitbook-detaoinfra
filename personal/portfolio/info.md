@@ -27,4 +27,4 @@ I have portfolios set up on several platforms.
 * [**Behance**](https://www.behance.net/Farran) — graphic design, fonts and whatnot&#x20;
 * [**GitHub repos**](https://github.com/fazzaan) — keyboard layouts, font downloads&#x20;
 * **WordPress** — general portfolio before I discovered GitBook&#x20;
-*
+

@@ -4,7 +4,7 @@
 
 ## Portfolio
 
-* [ℹ️ Portfolio info](portfolio/portfolio-info.md)
+* [ℹ️ Portfolio info](portfolio/info.md)
 * [📚 GitBook publications](portfolio/gitbook-publications.md)
 * [Linguistics](portfolio/linguistics.md)
 * [English education](portfolio/english-education.md)
@@ -19,6 +19,7 @@
 
 ## Companies
 
+* [Companies info](companies/info.md)
 * [🪼 Deep Sea Frequencies (previously Psychedelic Jelly)](companies/deep-sea-frequencies.md)
 
 ## Multi-site Map
