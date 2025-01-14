@@ -48,30 +48,36 @@ Portfolio of all my stuff from around the internet
 | → DeltaStep English Education (EN)  | [GitBook admin](https://app.gitbook.com/o/OgqaOntad7CdONfiggZ1/s/neSZ0TclYB0BybReetuZ/) | [GitBook website](https://deltastep-english.gitbook.io/learn)    |
 | → Giáo dục tiếng Anh DeltaStep (VN) | [GitBook admin](https://app.gitbook.com/o/OgqaOntad7CdONfiggZ1/s/6QeqtHuQOsjh1DdDj27B/) | [GitBook website](https://deltastep-english.gitbook.io/learn/vn) |
 
-|                            |   |   |
-| -------------------------- | - | - |
-| <h4>Phlowyd Mentalics</h4> |   |   |
-|                            |   |   |
-|                            |   |   |
+|                            |                                                                                         |                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <h4>Phlowyd Mentalics</h4> | [GitBook admin](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/home)                    | [GitBook website](https://phlowyd-mentalics.gitbook.io/)                       |
+| → Mastery                  | [GitBook admin](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/UQGHaZ9rdsQ3XORhJQYu/) | [GitBook website](https://phlowyd-mentalics.gitbook.io/mastery)                |
+| → Mental Mastery           | [GitBook admin](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/6NZGIYMGPWax0HgjtXHK/) | [GitBook website](https://phlowyd-mentalics.gitbook.io/mastery/mental-mastery) |
+| → Mentalscape              | [GitBook admin](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/A8Wb5kNCTZm4QvfxJ39S/) | [GitBook website](https://phlowyd-mentalics.gitbook.io/mastery/mentalscape)    |
+| → Health                   | [GitBook admin](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/8Bu9PhjagzvDjiFiwMOW/) | [GitBook website](https://phlowyd-mentalics.gitbook.io/mastery/health)         |
 
-|           |   |   |
-| --------- | - | - |
-| Sciencing |   |   |
-|           |   |   |
-|           |   |   |
 
-|                           |   |   |
-| ------------------------- | - | - |
-| <h4>Planet Guardians</h4> |   |   |
-|                           |   |   |
-|                           |   |   |
 
-|                                                                                    |   |   |
-| ---------------------------------------------------------------------------------- | - | - |
-| <h4>Deep Sea Frequencies </h4><h4>(Psychedelic Jelly) </h4><h4>[coming soon!}</h4> |   |   |
-|                                                                                    |   |   |
-|                                                                                    |   |   |
+|                          |                                                                                         |                                                                                             |
+| ------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <h4>Sciencing</h4>       | [GitBook admin](https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/home)                    | [GitBook website](https://sciencing.gitbook.io/)                                            |
+| → Sciencing Homepage     | [GitBook admin](https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/nCGaI48cwt6GU0yMEDkK/) | [GitBook website](https://sciencing.gitbook.io/science)                                     |
+| → Farran's Science Works | [GitBook admin](https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/D4QXEa8gwRRM9JUCdSVA/) | [GitBook website](https://sciencing.gitbook.io/science/farrans-science-works?fallback=true) |
+| → Science Communication  | [GitBook admin](https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/E4VCnKAsWX31iWF00GW5/) | [GitBook website](https://sciencing.gitbook.io/science/science-communication)               |
+
+|                           |               |                                                                       |
+| ------------------------- | ------------- | --------------------------------------------------------------------- |
+| <h4>Planet Guardians</h4> | GitBook admin | GitBook website                                                       |
+| → Gaia Guardians          | GitBook admin | [GitBook website](https://planet-guardians.gitbook.io/gaia-guardians) |
+
+|                                                                                                                   |               |                 |
+| ----------------------------------------------------------------------------------------------------------------- | ------------- | --------------- |
+| <h4>Deep Sea Frequencies </h4><p>(Psychedelic Jelly) </p><p>[<mark style="color:yellow;">coming soon!</mark>]</p> | GitBook admin | GitBook website |
+| → DSF Homepage                                                                                                    | GitBook admin | GitBook website |
+| → [Partnership Projects](#user-content-fn-2)[^2]                                                                  | GitBook admin | GitBook website |
 
 
 
 [^1]: [_https://deltastep-english.gitbook.io/_](https://deltastep-english.gitbook.io/) _link is broken, I think it will take some time to update in the base gitbook system_
+
+[^2]: triplicity, anthropos, etc
