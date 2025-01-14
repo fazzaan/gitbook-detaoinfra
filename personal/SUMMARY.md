@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Farran De Tao Homepage](README.md)
+* [☯️ Farran De Tao Homepage](README.md)
 
 ## Portfolio
 
