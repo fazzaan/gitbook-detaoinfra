@@ -4,7 +4,7 @@ icon: yin-yang
 
 # ☯️ Farran De Tao Homepage
 
-This is my main homepage. From here, you can find all my other websites.
+This is my main homepage. All my other websites can be found from here.
 
 ## Overall structure
 

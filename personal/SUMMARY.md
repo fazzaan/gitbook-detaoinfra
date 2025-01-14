@@ -21,7 +21,14 @@
 
 * [Companies info](companies/info.md)
 * [🪼 Deep Sea Frequencies (previously Psychedelic Jelly)](companies/deep-sea-frequencies.md)
+* [DeltaStep English](companies/deltastep-english.md)
+* [FarrAndDroid Tech](companies/farranddroid-tech.md)
+* [📐 Phlowyd Design](companies/phlowyd-design.md)
 
 ## Multi-site Map
 
 * [Page 1](multi-site-map/page-1.md)
+
+## Contact
+
+* [scratchpad](contact/scratchpad.md)
