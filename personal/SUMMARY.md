@@ -27,8 +27,8 @@
 
 ## Multi-site Map
 
-* [Page 1](multi-site-map/page-1.md)
+* [Map](multi-site-map/map.md)
 
 ## Contact
 
-* [scratchpad](contact/scratchpad.md)
+* [contact scratchpad](contact/contact-scratchpad.md)
