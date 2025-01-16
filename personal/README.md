@@ -8,11 +8,13 @@ _This is my main homepage. All my other websites can be found from here._
 
 ## This site structure
 
-Portfolio of all my stuff from around the internet
+_This website has a portfolio of all my works, and various stuff from around the internet._
 
+{% hint style="info" %}
 📄 _is a link to a page on this website_
 
 🌐 _is a link to another website_
+{% endhint %}
 
 * [📄 Portfolio](broken-reference) (simple overview) — language, design, art, computing, websites
   * Links to other [📄📚 GitBook websites](portfolio/gitbook-publications.md)&#x20;
