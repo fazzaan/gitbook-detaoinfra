@@ -6,6 +6,16 @@ icon: yin-yang
 
 _This is my main homepage. All my other websites can be found from here._
 
+I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
+
+I'm passionate about&#x20;
+
+* **science**: biology, biotechnology, and environmentalism;&#x20;
+* **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology;&#x20;
+* **learning & education**: the psychology & neurology of effective learning;&#x20;
+* **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance;
+* **technology**: tech doesn't need to be the effective downfall of civilisation and the planet; we can develop it and use it in right ways.
+
 ## This site structure
 
 _This website has a portfolio of all my works, and various stuff from around the internet._
