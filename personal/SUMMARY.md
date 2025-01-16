@@ -32,3 +32,10 @@
 ## Contact
 
 * [contact scratchpad](contact/contact-scratchpad.md)
+
+## Reviews
+
+* [Cambly English tutor](reviews/cambly-english-tutor.md)
+* [Private English tutor](reviews/private-english-tutor.md)
+* [FarrAndDroid Tech Support](reviews/farranddroid-tech-support.md)
+* [Graphic Design](reviews/graphic-design.md)
