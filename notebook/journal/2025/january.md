@@ -42,3 +42,19 @@ _\[\[ n.b. I cannot find (quickly) original sources for the stats regarding kore
 
 [🌐🔗🇫🇧 post on facebook](https://www.facebook.com/FarranDeTao/posts/pfbid0BVgyAb4BgKCrEXffZtfswV3RjPqTKvik9aN72oqKBZqvSiNMpEqxdeSE9HSN7cv2l)&#x20;
 
+
+
+***
+
+
+
+## 8th Jánūăry
+
+[A page about drawing your intended future into your path](https://phlowyd-mentalics.gitbook.io/mastery/mental-mastery/spelling/futuring-basics) (Mentalics GitBook)&#x20;
+
+
+
+***
+
+
+
