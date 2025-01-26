@@ -62,11 +62,9 @@ other suchness
 
 f/oss and why — security, auditable, publicly owned, forkable, uncontrollable, etc
 
-(keywords: linux, open source, gnu, foss, oss, aosp)&#x20;
+(keywords: linux, open source, gnu, foss, oss, aosp)
 
 </details>
-
-
 
 ### discussion
 
@@ -92,11 +90,11 @@ English is the current _lingua franca_. It is used for global communications, in
 
 But English _spelling_ is horrific, and it is held back by several issues — one of which being that it uses no diacritics or stress markers, so typing & writing it is easy, whilst using it is hard because it must simply be remembered. For most non-native users, there is no rhyme or reason — and even most native users do not know the rhyme & reason within the English spelling system.
 
-An orthographic (spelling system) reformation is required, but it has to maintain diverse accent representation, and it has to be as easy to type & write as the current orthography is. There will be some trade-offs, but a new orthography must make spelling easier and more logical. The current spelling system follows some senses, contains some logic, but there is much conflation, and also far too many broken rules, especially amongst the simplest daily vocabulary.&#x20;
+An orthographic (spelling system) reformation is required, but it has to maintain diverse accent representation, and it has to be as easy to type & write as the current orthography is. There will be some trade-offs, but a new orthography must make spelling easier and more logical. The current spelling system follows some senses, contains some logic, but there is much conflation, and also far too many broken rules, especially amongst the simplest daily vocabulary.
 
-Through my own orthographic reformation attempts, I've discovered many reasons for the many orthographic peculiarities of English, and as such I have had to pause my reformation development.&#x20;
+Through my own orthographic reformation attempts, I've discovered many reasons for the many orthographic peculiarities of English, and as such I have had to pause my reformation development.
 
-However, I have already developed it through three successful phases, and you can find information about that on my [linguistics site](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/) → [neweng subsite](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/).&#x20;
+However, I have already developed it through three successful phases, and you can find information about that on my [linguistics site](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/) → [neweng subsite](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/).
 
 {% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/" %}
 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/)
@@ -104,15 +102,15 @@ However, I have already developed it through three successful phases, and you ca
 
 ### mental infrastructure
 
-We will have our brains forever up until we are finally surplanted — either by ourselves, by a stronger lifeform, or by our creations — and as such, we should entrain our brains in the best ways possible. The amount of mental taxation imparted by illogical systems is unreasonable and directly impacts our mental capacity to do other things. Absolutely regardless of what anyone tells you, reliance & dependence upon external devices is _fundamentally a weakness_. Yes, we have devices, in today's world they are calculators and computers, and yes, we can use them to support ourselves in tasks that are otherwise too complicated. But expecting such things to be permanently ubiquitous is naïve and, frankly, dangerous. Such devices depend on electricity availability, factories to produce them, machinery & people working in those factories (the people often are exploited), rare earth metals to produce the components (which is always damaging to the Earth and exploiting the human workers, who are subjected to despicable working conditions and are usually pretty much slave labour), and (at least today) most apps don't even work without an internet connection.&#x20;
+We will have our brains forever up until we are finally surplanted — either by ourselves, by a stronger lifeform, or by our creations — and as such, we should entrain our brains in the best ways possible. The amount of mental taxation imparted by illogical systems is unreasonable and directly impacts our mental capacity to do other things. Absolutely regardless of what anyone tells you, reliance & dependence upon external devices is _fundamentally a weakness_. Yes, we have devices, in today's world they are calculators and computers, and yes, we can use them to support ourselves in tasks that are otherwise too complicated. But expecting such things to be permanently ubiquitous is naïve and, frankly, dangerous. Such devices depend on electricity availability, factories to produce them, machinery & people working in those factories (the people often are exploited), rare earth metals to produce the components (which is always damaging to the Earth and exploiting the human workers, who are subjected to despicable working conditions and are usually pretty much slave labour), and (at least today) most apps don't even work without an internet connection.
 
 The sheer infrastructure required for all this technology is literally an abomination against Life.
 
-_**If you don't understand what I'm saying then you have deeper problems than you realise and you should probably go read literally anything about environmental science,****&#x20;**<mark style="color:red;">**right the fuck now**</mark>**.**_
+_**If you don't understand what I'm saying then you have deeper problems than you realise and you should probably go read literally anything about environmental science,\*\*\*\*****&#x20;**<mark style="color:red;">**right the fuck now**</mark>**.**_
 
 Mental skills are fundamental, they are not ephemeral, fleeting, and a waste of time as most of us seem to think. Learning & training in mental skills is actually constructing, crafting, and strengthening neural pathways in our brains. "Neural pathways" is not just some fun idea that people throw around to try to sound sciencey. Neural pathways are the physical foundation of our entire world. Neural pathways are physical structures in our brains. We create neural pathways when we learn new things, and we strengthen those pathways by repeating those things. The vast majority of our daily behaviours ARE REFLEXIVE REPLAYINGS OF YOUR STRONGEST NEURAL PATHWAYS. You have little-to-no choice in this matter. (Mindfulness gives you this choice, but consumes more energy, so at some points you will still default to your strongest neural pathways. In fact, this is a good thing, but you _must_ train your self to have good pathways as your strongest pathways; and you must train your pathways to have adaptability, and to maintain neuroplasticity.)
 
-All of our modern world is constructed by human behaviour, and all human behaviour — including the _quality_ of behaviour, action, work — is shaped by our habitual function.&#x20;
+All of our modern world is constructed by human behaviour, and all human behaviour — including the _quality_ of behaviour, action, work — is shaped by our habitual function.
 
 Do you see where this is going?
 
@@ -154,13 +152,7 @@ If we learnt Base 12 as our primary mathematical foundation when we were babies,
 
 Here are some Base 12 notes.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-
-
+<table><thead><tr><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>A</td><td>B</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>↊</td><td>↋</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>ᘔ</td><td>Ɛ</td></tr></tbody></table>
 
 View my page on mental mathematics and some info on Base 12:
 
@@ -175,6 +167,3 @@ View my page on mental mathematics and some info on Base 12:
 
 
 </details>
-
-
-
