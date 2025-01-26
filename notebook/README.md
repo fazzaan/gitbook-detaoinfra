@@ -152,3 +152,29 @@ Mental maths is much more accessible, sensible, logical, and quick, using **Base
 
 If we learnt Base 12 as our primary mathematical foundation when we were babies, instead of dumbass Base 10, everyone would have a much easier and more enjoyable time with maths.
 
+Here are some Base 12 notes.
+
+|   |   |   |
+| - | - | - |
+| 0 | 1 | 2 |
+| 0 | 1 | 2 |
+| 0 | 1 | 2 |
+
+
+
+View my page on mental mathematics and some info on Base 12:
+
+{% content-ref url="https://app.gitbook.com/s/6NZGIYMGPWax0HgjtXHK/numbering/mental-mathematics" %}
+[https://app.gitbook.com/s/6NZGIYMGPWax0HgjtXHK/numbering/mental-mathematics](https://app.gitbook.com/s/6NZGIYMGPWax0HgjtXHK/numbering/mental-mathematics)
+{% endcontent-ref %}
+
+<details>
+
+<summary>External resources on Base 12 — <em>adoption, maths, calendars, time, music, etc.</em></summary>
+
+
+
+</details>
+
+
+
