@@ -66,7 +66,7 @@ f/oss and why — security, auditable, publicly owned, forkable, uncontrollable,
 
 </details>
 
-### discussion
+### _discussion_
 
 many changes in our lives come not from something new now, but something new in the past that was ignored, suppressed, besmirched
 
@@ -84,7 +84,7 @@ like it or not, **it is infinitely our duty to lay the foundations of the future
 
 are you using systems which uphold humanity and the improvement of life? or are you using systems which support & consolidate the overruling powers, the tyrannies, the billionaires?
 
-### ALPHABET
+### ALPHABET — NewEng
 
 English is the current _lingua franca_. It is used for global communications, internet communications, business communications. It is not the "best" language, it is simply what is being used.
 
@@ -106,7 +106,7 @@ We will have our brains forever up until we are finally surplanted — either by
 
 The sheer infrastructure required for all this technology is literally an abomination against Life.
 
-_**If you don't understand what I'm saying then you have deeper problems than you realise and you should probably go read literally anything about environmental science,\*\*\*\*****&#x20;**<mark style="color:red;">**right the fuck now**</mark>**.**_
+_**If you don't understand what I'm saying then you have deeper problems than you realise and you should probably go read literally anything about environmental science,\*\*\*\*\*\*\*\*****&#x20;**<mark style="color:red;">**right the fuck now**</mark>**.**_
 
 Mental skills are fundamental, they are not ephemeral, fleeting, and a waste of time as most of us seem to think. Learning & training in mental skills is actually constructing, crafting, and strengthening neural pathways in our brains. "Neural pathways" is not just some fun idea that people throw around to try to sound sciencey. Neural pathways are the physical foundation of our entire world. Neural pathways are physical structures in our brains. We create neural pathways when we learn new things, and we strengthen those pathways by repeating those things. The vast majority of our daily behaviours ARE REFLEXIVE REPLAYINGS OF YOUR STRONGEST NEURAL PATHWAYS. You have little-to-no choice in this matter. (Mindfulness gives you this choice, but consumes more energy, so at some points you will still default to your strongest neural pathways. In fact, this is a good thing, but you _must_ train your self to have good pathways as your strongest pathways; and you must train your pathways to have adaptability, and to maintain neuroplasticity.)
 
@@ -130,7 +130,7 @@ It is exhausting. It is. There's not really any way around that. The systems tha
 
 One of the ways we can become mentally stronger is by replacing weak mental architectures with stronger ones. Let's consider maths: how many people love maths? How many dread maths? What would you think if I told you that the reason most people hate maths is because the numerical system is one of the worst possible systems?
 
-### NUMBERBET — Base 12
+### NUMERICS — Base 12
 
 `10` does not mean 9+1 items.
 
@@ -152,7 +152,7 @@ If we learnt Base 12 as our primary mathematical foundation when we were babies,
 
 Here are some Base 12 notes.
 
-<table><thead><tr><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th><th width="45"></th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>A</td><td>B</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>↊</td><td>↋</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>ᘔ</td><td>Ɛ</td></tr></tbody></table>
+<table><thead><tr><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th width="45" align="center"></th><th></th></tr></thead><tbody><tr><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">A</td><td align="center">B</td><td>Alphanumeric</td></tr><tr><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">↊</td><td align="center">↋</td><td>Isaac Pitman, 1857</td></tr><tr><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">ᘔ</td><td align="center">Ɛ</td><td>Primel</td></tr><tr><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">X</td><td align="center">Ɛ</td><td>Frank Emerson Andrews, 1935</td></tr></tbody></table>
 
 View my page on mental mathematics and some info on Base 12:
 
@@ -167,3 +167,31 @@ View my page on mental mathematics and some info on Base 12:
 
 
 </details>
+
+
+
+***
+
+### MATHS — Tau τ vs Pi π, etc
+
+Lo and behold, not all things in this world are ideal.
+
+You'd expect them to be, given the modern ubiquity of technology, communications, internet, education, etc., but nope.
+
+You'd expect them to be, given the sheer quantity of time that has passed, the mass of intelligent & creative people who have made discoveries and designed systems to encapsulate those discoveries.
+
+Somehow, The Powers That Be consistently choose the stupider options, and consolidate them into the structure of our society and civilisation.
+
+One such is π, pi.&#x20;
+
+Anyway, go read about it on [Tau Day .com](https://tauday.com/tau-manifesto).&#x20;
+
+
+
+***
+
+### SOFTWARE
+
+This is a hard one because many, if not most, of us use software daily for our jobs that really only runs on Windows and/or MacOS.
+
+Anyway, here will be some discussion on the necessities of Open Source Software (OSS) and some links to resources around the internet on how you can get started using it.
