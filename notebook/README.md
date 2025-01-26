@@ -154,11 +154,11 @@ If we learnt Base 12 as our primary mathematical foundation when we were babies,
 
 Here are some Base 12 notes.
 
-|   |   |   |
-| - | - | - |
-| 0 | 1 | 2 |
-| 0 | 1 | 2 |
-| 0 | 1 | 2 |
+|   |   |   |   |   |   |   |   |   |   |   |   |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 0 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 
 
