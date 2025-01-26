@@ -152,7 +152,7 @@ If we learnt Base 12 as our primary mathematical foundation when we were babies,
 
 Here are some Base 12 notes.
 
-<table><thead><tr><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>A</td><td>B</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>↊</td><td>↋</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>ᘔ</td><td>Ɛ</td></tr></tbody></table>
+<table><thead><tr><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th><th width="20"></th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>A</td><td>B</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>↊</td><td>↋</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>ᘔ</td><td>Ɛ</td></tr></tbody></table>
 
 View my page on mental mathematics and some info on Base 12:
 
