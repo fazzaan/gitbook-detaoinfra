@@ -195,3 +195,10 @@ Anyway, go read about it on [Tau Day .com](https://tauday.com/tau-manifesto).&#x
 This is a hard one because many, if not most, of us use software daily for our jobs that really only runs on Windows and/or MacOS.
 
 Anyway, here will be some discussion on the necessities of Open Source Software (OSS) and some links to resources around the internet on how you can get started using it.
+
+Visit my [FarrAndDroid Tech site](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/) to learn about decentralised communication methods, distributed storage solutions, etc., things which inherently cannot be blocked, censored or otherwise controlled. <mark style="color:red;">These are probably the</mark> <mark style="color:red;"></mark>_<mark style="color:red;">**only way**</mark>_ <mark style="color:red;"></mark><mark style="color:red;">that we will ever reclaim the internet as our own.</mark>&#x20;
+
+{% content-ref url="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/" %}
+[https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/)
+{% endcontent-ref %}
+
