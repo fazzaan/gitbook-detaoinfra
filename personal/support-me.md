@@ -4,9 +4,13 @@ icon: seedling
 
 # Support Me
 
-You can support me financially and by spreading my information.
+{% hint style="success" %}
+You can support me financially by donating & by buying my digital products,\` and by spreading my information.
+{% endhint %}
 
 My work is focussed on research & development for the ecosystem, life, and the planet overall, and also on privacy, security, safe communication channels, and infrastructure allowing each & all of us to retain freedom and defend the planet & communities in the present & the future.
+
+None of my work is written using LLMs ("AI").
 
 ## Send me money
 
@@ -16,11 +20,19 @@ Send me money to support me financially in the work I'm doing for the planetary 
 
 I'm also doing other things, like writing educational materials for students learning English, but unfortunately my methods do not align with the popularist mainstream education system so most students do not feel comfortable risking spending money on methods that they don't know about. The country & culture that I'm living in is very "normalised", in that most of them like to follow the mainstream and do what is normal, typical and expected. I have solutions for them in English education but the only way I can disseminate it is to give it away for free.
 
+### Shop links
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td>eBook store on Ecwid</td><td><em>Blocked in VN, fuck knows why</em></td><td><a href="https://teacherfarran.company.site">https://teacherfarran.company.site</a></td><td>About studying English, pronunciation, and much more</td></tr><tr><td>Stripe storefront</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
 ***
 
 
 
 ## Spread my information
+
+**My information is not&#x20;**_**mine**_**; it is in my mind & through my fingers, but it belongs to us all.**
 
 Only recently, I started writing all my information online. I've been posting on social media a lot but, if you've noticed, a) it is all algorithmised and moderated/policed by robots, and b) it is inherently unsortable and unsearchable, you cannot create any order, categorisation, hierarchy or othersuch system of organising your information. Posts are chronological (or not!) and that's it.
 
