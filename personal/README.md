@@ -4,7 +4,9 @@ icon: yin-yang
 
 # ☯️ Farran De Tao Homepage
 
+{% hint style="info" %}
 _This is my main homepage. All my other websites can be found from here._
+{% endhint %}
 
 I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
 
@@ -15,6 +17,18 @@ I'm passionate about&#x20;
 * **learning & education**: the psychology & neurology of effective learning;&#x20;
 * **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance;
 * **technology**: tech doesn't need to be the effective downfall of civilisation and the planet; we can develop it and use it in right ways.
+
+{% hint style="success" %}
+Most of what I do, I don't get paid for.&#x20;
+
+It is not marketable, it is not profitable. But it is for the good of Life & Consciousness.
+
+It is inordinately difficult to gain any momentum when the daily grind and various other events keep setting me back.&#x20;
+
+If you can support me with £1, £5, £50, £100, whatever, I would be so grateful!&#x20;
+
+Please visit the Support Me page to see which ways you can send me support.&#x20;
+{% endhint %}
 
 ## This site structure
 
@@ -86,12 +100,10 @@ _This website has a portfolio of all my works, and various stuff from around the
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><a data-footnote-ref href="#user-content-fn-1"><mark style="color:purple;">Deep Sea Frequencies</mark></a></h4><p>[<mark style="color:yellow;">coming soon!</mark>]</p></td><td>GitBook admin</td><td></td><td></td></tr><tr><td><mark style="color:purple;">→</mark> <a data-footnote-ref href="#user-content-fn-2"><mark style="color:purple;">DSF</mark></a> <mark style="color:purple;">Homepage</mark></td><td>GitBook admin</td><td>GitBook website</td><td></td></tr><tr><td><mark style="color:purple;">→</mark> <a data-footnote-ref href="#user-content-fn-3"><mark style="color:purple;">Partnership Projects</mark></a></td><td>GitBook admin</td><td>GitBook website</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><a data-footnote-ref href="#user-content-fn-1"><mark style="color:purple;">Deep Sea Frequencies</mark></a></h4><p>[<mark style="color:yellow;">coming soon!</mark>]</p></td><td>GitBook admin</td><td></td><td></td></tr><tr><td><mark style="color:purple;">→</mark> <a data-footnote-ref href="#user-content-fn-1"><mark style="color:purple;">DSF</mark></a> <mark style="color:purple;">Homepage</mark></td><td>GitBook admin</td><td>GitBook website</td><td></td></tr><tr><td><mark style="color:purple;">→</mark> <a data-footnote-ref href="#user-content-fn-2"><mark style="color:purple;">Partnership Projects</mark></a></td><td>GitBook admin</td><td>GitBook website</td><td></td></tr></tbody></table>
 
 
 
 [^1]: was Psychedelic Jelly
 
-[^2]: was Psychedelic Jelly
-
-[^3]: triplicity, anthropos, etc
+[^2]: triplicity, anthropos, etc

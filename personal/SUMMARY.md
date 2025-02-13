@@ -1,6 +1,7 @@
 # Table of contents
 
 * [☯️ Farran De Tao Homepage](README.md)
+* [Support Me](support-me.md)
 
 ## Portfolio
 
@@ -31,6 +32,7 @@
 
 ## Contact
 
+* [Contact Me](contact/contact-me.md)
 * [contact scratchpad](contact/contact-scratchpad.md)
 
 ## Reviews

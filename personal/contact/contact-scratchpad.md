@@ -1,10 +1,10 @@
-# scratchpad
+# contact scratchpad
 
 struggling to taxonomise this part&#x20;
 
 contact, personae, identities, entities, etc&#x20;
 
-
+personal social sites&#x20;
 
 ## company — deltastep english
 

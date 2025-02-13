@@ -57,7 +57,7 @@ _Windows settings, choosing devices, media playing, internet safety, web browser
 
 → 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/web-browser-setup/alternatives-to-google-and-bing](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/web-browser-setup/alternatives-to-google-and-bing "mention")
 
-→ 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/dns-to-get-around-blocks](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/dns-to-get-around-blocks "mention")
+→ 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/internet-connectivity/dns-to-get-around-blocks](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/internet-connectivity/dns-to-get-around-blocks "mention")
 
 → 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/entertainment/torrenting](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/entertainment/torrenting "mention")
 
