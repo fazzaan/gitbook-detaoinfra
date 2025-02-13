@@ -27,8 +27,14 @@ It is inordinately difficult to gain any momentum when the daily grind and vario
 
 If you can support me with £1, £5, £50, £100, whatever, I would be so grateful!&#x20;
 
-Please visit the Support Me page to see which ways you can send me support.&#x20;
+Please visit the [support-me.md](support-me.md "mention") page to see which ways you can send me support.&#x20;
 {% endhint %}
+
+{% content-ref url="support-me.md" %}
+[support-me.md](support-me.md)
+{% endcontent-ref %}
+
+***
 
 ## This site structure
 
