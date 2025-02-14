@@ -24,7 +24,7 @@ I'm also doing other things, like writing educational materials for students lea
 
 ### Shop links
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><strong>eBook store on Ecwid</strong></td><td>About studying English, pronunciation, and much more</td><td><a href="https://teacherfarran.company.site">https://teacherfarran.company.site</a></td><td><a data-footnote-ref href="#user-content-fn-1"><em>Blocked in VN</em></a><em>, fuck knows why</em></td></tr><tr><td><strong>Stripe storefront</strong></td><td></td><td></td><td><em>Storefront available on this GitBook site</em> </td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><strong>Stripe storefront</strong></td><td><p>About studying English, pronunciation, and much more.</p><p>This is the best way to buy from me.</p><p>You can also download for free, or donate. </p></td><td><a href="store-free.md">store-free.md</a></td><td><em>Stripe store available on this GitBook site</em> </td></tr><tr><td><strong>eBook store on Ecwid</strong></td><td>About studying English, pronunciation, and much more</td><td><a href="https://teacherfarran.company.site">https://teacherfarran.company.site</a></td><td><a data-footnote-ref href="#user-content-fn-1"><em>Blocked in VN</em></a><em>, fuck knows why</em></td></tr></tbody></table>
 
 
 
