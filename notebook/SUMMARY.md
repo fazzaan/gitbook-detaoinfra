@@ -15,6 +15,8 @@
 ## Journal
 
 * [Root](journal/root.md)
+* ["AI" LLMs](journal/ai-llms/README.md)
+  * [Problems](journal/ai-llms/problems.md)
 
 ## Creative ideas
 
