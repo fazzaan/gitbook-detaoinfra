@@ -2,6 +2,7 @@
 
 * [☯️ Farran De Tao Homepage](README.md)
 * [Support Me](support-me.md)
+* [Store](store.md)
 
 ## Portfolio
 

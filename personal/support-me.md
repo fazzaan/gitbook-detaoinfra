@@ -5,12 +5,14 @@ icon: seedling
 # Support Me
 
 {% hint style="success" %}
-You can support me financially by donating & by buying my digital products,\` and by spreading my information.
+You can support me financially by donating & by buying my digital products, and by spreading my information.
 {% endhint %}
 
 My work is focussed on research & development for the ecosystem, life, and the planet overall, and also on privacy, security, safe communication channels, and infrastructure allowing each & all of us to retain freedom and defend the planet & communities in the present & the future.
 
-None of my work is written using LLMs ("AI").
+**None of my work is written using LLMs ("AI")&#x20;**<mark style="color:red;">**and it never shall be**</mark>**.**
+
+_For now, I am working alone, but I'm looking to work with other aspiring scientists and to build a community of researchers who are not funded by corporate or politically-aligned interests. Please reach out if you want to use your free time for saving the world instead of scrolling the shitternet._&#x20;
 
 ## Send me money
 
@@ -22,7 +24,7 @@ I'm also doing other things, like writing educational materials for students lea
 
 ### Shop links
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td>eBook store on Ecwid</td><td><em>Blocked in VN, fuck knows why</em></td><td><a href="https://teacherfarran.company.site">https://teacherfarran.company.site</a></td><td>About studying English, pronunciation, and much more</td></tr><tr><td>Stripe storefront</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><strong>eBook store on Ecwid</strong></td><td>About studying English, pronunciation, and much more</td><td><a href="https://teacherfarran.company.site">https://teacherfarran.company.site</a></td><td><a data-footnote-ref href="#user-content-fn-1"><em>Blocked in VN</em></a><em>, fuck knows why</em></td></tr><tr><td><strong>Stripe storefront</strong></td><td></td><td></td><td><em>Storefront available on this GitBook site</em> </td></tr></tbody></table>
 
 
 
@@ -103,3 +105,6 @@ Probably check the [Broken link](broken-reference "mention") page.&#x20;
 
 
 
+
+
+[^1]: get around it using [📄alternative DNS](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/internet-connectivity/dns-to-get-around-blocks)&#x20;

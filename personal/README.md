@@ -10,6 +10,10 @@ _This is my main homepage. All my other websites can be found from here._
 
 I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
 
+{% hint style="danger" %}
+warning: i swear on my website whenever i want to and i don't give a fuck if you don't like it, there are indeed things in this life that need swearing about and i shall do so. if you're offended by swearing then we ain't gonna work well together 👋&#x20;
+{% endhint %}
+
 I'm passionate about&#x20;
 
 * **science**: biology, biotechnology, and environmentalism;&#x20;
