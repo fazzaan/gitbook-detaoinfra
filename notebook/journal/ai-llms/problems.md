@@ -12,7 +12,7 @@ The LLM — not an AI, we don't have those yet — does not experience life, doe
 
 The styles it mimics are just that: mimics; and it doesn't understand what it is doing.
 
-The details in the imagery are just incidental, accidental; renditions of whatever the neural net thought something might possible have been during a fleeting moment as it got dis-tracted down an array of different recognition sequences.
+The details in the imagery are just incidental, accidental; renditions of whatever the neural net thought something might have been during a fleeting moment as it got dis-tracted down an array of different recognition sequences.
 
 There was a time in the past when you could look at a piece of art and wonder what those details meant, wonder what the weirdness of composition meant, wonder what the whackiness of components meant.
 
@@ -58,7 +58,7 @@ The majority of us struggle for resources on the daily, weekly, monthly and year
 
 Around 65% of the world's population are currently considered as being in poverty.
 
-The rest of us _regular_ humans are above the poverty line, but we are still struggling somewhat.
+The rest of us are above the poverty line, but we are still struggling somewhat.
 
 And there are a few of us, especially white upper-working class westerners, who live cheaply, with little money and little resources, but follow a fairly care-free life. You may think "well here is a perfect example of abundance!".&#x20;
 
@@ -90,7 +90,7 @@ And herein lies the apparance:
 
 
 
-Spirituality allows us to see what has no soul.
+Spirituality allows us to identify that which has no soul.
 
 
 
