@@ -11,6 +11,7 @@
 * [Root](blog/root.md)
 * [2025](blog/2025/README.md)
   * [Jánūăry](blog/2025/january.md)
+  * [Marч](blog/2025/march.md)
 
 ## Journal
 
