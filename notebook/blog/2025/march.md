@@ -29,8 +29,8 @@ yȣ̈:
 
 Wel, naw ðat Ī'v wríten ål ðis dawn, Ī g̊ess Ī fēl sômƕot béter. Dŏ Ī?&#x20;
 
-Ēч tīm wrītiŋ þiŋz daun çértāinly helps, but it dôzn't alḗvïāt ðe sublíminal fatïg̊. Ī'm pŭtiŋ mȳ énerjy íntŏ an ōpen çírc̊itt sẏstem, Ī'm drăiniŋ mȳself sō ðē énerjy is ōnly bēiŋ ėẍåstėd. Ðis iz ėntīrly unsŭsăinabl and Ī cannót contínū ŭnléss Ī hav a tēm tŏ werk wið.
+Ēч tīm wrītiŋ þiŋz daun çértāinly helps, but it dôzn't alḗvïātt ðe sublíminal fatïg̊. Ī'm pŭtiŋ mȳ énerjy íntŏ an ōpen çírc̊itt sẏstem, Ī'm drăiniŋ mȳself sō ðē énerjy is ōnly bēiŋ ėẍåstėd. Ðis iz ėntīrly unsŭstắinabl and Ī cannót contínū ŭnléss Ī hav a tēm tŏ werk wið.
 
-But, tŏ atráctt a tēm, Ī nēd first tŏ prodūç a convínçiŋ gāmplan, rōadmap, propōzal. Wiðáut sômþiŋ suч az ðis, ðey wȣld, quītt understándably, not bē íntrestėd in jóiniŋ mē.
+But, tŏ atráctt a tēm, Ī nēd firstt tŏ prodūç a convínçiŋ gāmplan, rōadmap, propōzal. Wiðáut sômþiŋ suч az ðis, ðey wȣld, quītt understándably, not bē íntrestėd in jóiniŋ mē.
 
 Addítionaly, Ī can kēp sēkiŋ pēȯpl and tēmz for mē tŏ join, but at ðis tīm Ī am stil conçérned ðat Ī dōn't hav ðe néçėsăry skilz and ėxpērïenç tŏ bē a ūsfŭl mémber instédd ov a hínderanç.
