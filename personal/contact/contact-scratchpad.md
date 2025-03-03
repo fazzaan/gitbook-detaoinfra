@@ -15,7 +15,7 @@ personal social sites&#x20;
 * ecwid ebook sales site
 * other sales sites
 
-## company — psyjelly / dsf
+## company — psyjelly / deep sea frequencies
 
 * the above details
 * soundcloud

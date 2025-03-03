@@ -3,6 +3,7 @@
 * [☯️ Farran De Tao Homepage](README.md)
 * [Support Me](support-me.md)
 * [Store (free!)](store-free.md)
+* [Multi-site Map](multi-site-map.md)
 
 ## Portfolio
 
@@ -27,18 +28,22 @@
 * [FarrAndDroid Tech](companies/farranddroid-tech.md)
 * [📐 Phlowyd Design](companies/phlowyd-design.md)
 
-## Multi-site Map
-
-* [Map](multi-site-map/map.md)
-
 ## Contact
 
 * [Contact Me](contact/contact-me.md)
 * [contact scratchpad](contact/contact-scratchpad.md)
 
-## Reviews
+## Work Reviews
 
-* [Cambly English tutor](reviews/cambly-english-tutor.md)
-* [Private English tutor](reviews/private-english-tutor.md)
-* [FarrAndDroid Tech Support](reviews/farranddroid-tech-support.md)
-* [Graphic Design](reviews/graphic-design.md)
+* [Cambly English tutor](work-reviews/cambly-english-tutor.md)
+* [Private English tutor](work-reviews/private-english-tutor.md)
+* [FarrAndDroid Tech Support](work-reviews/farranddroid-tech-support.md)
+* [Graphic Design](work-reviews/graphic-design.md)
+
+## Recommended
+
+* [Books](recommended/books.md)
+* [Films](recommended/films.md)
+* [Games](recommended/games.md)
+* [Creative practices](recommended/creative-practices.md)
+* [Exercises](recommended/exercises.md)

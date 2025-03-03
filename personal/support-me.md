@@ -107,4 +107,4 @@ Probably check the [Broken link](broken-reference "mention") page.&#x20;
 
 
 
-[^1]: get around it using [📄alternative DNS](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/internet-safety/internet-connectivity/dns-to-get-around-blocks)&#x20;
+[^1]: get around it using [📄alternative DNS](broken-reference)&#x20;
