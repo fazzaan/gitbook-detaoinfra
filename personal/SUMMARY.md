@@ -42,6 +42,7 @@
 
 ## Recommended
 
+* [Music](recommended/music.md)
 * [Books](recommended/books.md)
 * [Films](recommended/films.md)
 * [Games](recommended/games.md)
