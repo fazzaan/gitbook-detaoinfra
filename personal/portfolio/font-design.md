@@ -40,7 +40,9 @@ _Visit the NewEng website (_[https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basi
 
 ### Vietnamese
 
-a
+a á à ả ã ạ â ấ ầ ẩ ẫ ậ ă ắ ằ ẳ ẵ ặ&#x20;
+
+_I'm already exhausted 😂 Also, the GitBook font doesn't support these diacritics properly._
 
 ### Latin Extended
 
