@@ -40,9 +40,23 @@ _Visit the NewEng website (_[https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basi
 
 ### Vietnamese
 
-a á à ả ã ạ â ấ ầ ẩ ẫ ậ ă ắ ằ ẳ ẵ ặ&#x20;
+A Á À Ả Ã Ạ Â Ấ Ầ Ẩ Ẫ Ậ Ă Ắ Ằ Ẳ Ẵ Ặ — a á à ả ã ạ â ấ ầ ẩ ẫ ậ ă ắ ằ ẳ ẵ ặ&#x20;
 
-_I'm already exhausted 😂 Also, the GitBook font doesn't support these diacritics properly._
+E É È Ẻ Ẽ Ẹ Ê Ế Ề Ể Ễ Ệ — e é è ẻ ẽ ẹ ê ế ề ể ễ ệ
+
+I Í Ì Ỉ Ĩ Ị — i í ì ỉ ĩ ị
+
+O Ó Ò Ỏ Õ Ọ Ô Ố Ồ Ổ Ỗ Ộ Ơ Ớ Ờ Ở Ỡ Ợ — o ó ò ỏ õ ọ ô ố ồ ổ ỗ ộ ơ ớ ờ ở ỡ ợ
+
+U Ú Ù Ủ Ũ Ụ Ư Ú Ừ Ử Ữ Ự — u ú ù ủ ũ ụ ư ú ừ ử ữ ự
+
+Đ đ
+
+#### NewViet
+
+An alphabet that I made to simplify and shorten spelling in Vietnamese.
+
+\~\~\~&#x20;
 
 ### Latin Extended
 
