@@ -24,6 +24,8 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 
+* Supported by: All the fonts
+
 ### NewEng
 
 A Æ B C Ç D E F Φ Þ Ð G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ/Ɛ T Ч U Ȣ V W Ꝏ X Y Z
@@ -32,11 +34,17 @@ a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ[^1]/ɛ
 
 _Visit the NewEng website (_[https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basics-of-neweng/diacritics-system](https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basics-of-neweng/diacritics-system "mention")) _to see all the diacritiqued letters — there are too many to put here!_
 
+* Supported by: Thaiic, Hangeulic, Runic, TallThin
+* In development: Leaf Tech
+
 ### Greek
 
 Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ά Έ Ί Ή Ό Ύ Ώ&#x20;
 
 α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω ά έ ή ί ό ύ ώ ΐ ΰ
+
+* Supported by: Chipboard Black
+* Regular fonts: [Google Fonts](https://fonts.google.com/?script=Grek)&#x20;
 
 ### Vietnamese
 
@@ -52,11 +60,16 @@ U Ú Ù Ủ Ũ Ụ Ư Ú Ừ Ử Ữ Ự — u ú ù ủ ũ ụ ư ú ừ ử �
 
 Đ đ
 
+* Supported by: Leaf Tech
+* Regular fonts: see my font support document; [Google Fonts](https://fonts.google.com/?lang=vi_Latn)&#x20;
+
 #### NewViet
 
 An alphabet that I made to simplify and shorten spelling in Vietnamese.
 
 \~\~\~&#x20;
+
+Supported by: None yet
 
 ### Latin Extended
 
