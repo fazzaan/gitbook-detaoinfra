@@ -35,6 +35,7 @@
 
 ## Work Reviews
 
+* [Sectors](work-reviews/sectors.md)
 * [Cambly English tutor](work-reviews/cambly-english-tutor.md)
 * [Private English tutor](work-reviews/private-english-tutor.md)
 * [FarrAndDroid Tech Support](work-reviews/farranddroid-tech-support.md)
