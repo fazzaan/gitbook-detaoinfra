@@ -20,9 +20,12 @@ _Psytrance, but I have requirements for what makes it good and transcendent._&#x
 
 <summary>outstanding artists</summary>
 
-* digicult
-* tropical bleyage
-* u-recken
+|                  | bpm avg |   |
+| ---------------- | ------- | - |
+| digicult         | \~120   |   |
+| tropical bleyage |         |   |
+| u-recken         |         |   |
+| akshan           |         |   |
 
 </details>
 
