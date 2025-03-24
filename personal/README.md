@@ -1,7 +1,3 @@
----
-icon: yin-yang
----
-
 # ☯️ Farran De Tao Homepage
 
 {% hint style="info" %}
@@ -77,6 +73,8 @@ _This website has a portfolio of all my works, and various stuff from around the
 * <mark style="color:purple;">deep sea frequences // psychedelic jelly</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">(coming soon!)</mark>_&#x20;
 
 </details>
+
+
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:green;"><strong>De Tao Infrastructure</strong></mark></h4></td><td><a href="https://app.gitbook.com/o/eNO8roz9wVxeqyYOww4H/home">GitBook admin</a></td><td></td><td><a href="https://farran.gitbook.io">https://farran.gitbook.io</a></td></tr><tr><td><mark style="color:green;">→ Personal homepage (this site)</mark></td><td><a href="https://app.gitbook.com/o/eNO8roz9wVxeqyYOww4H/s/4g2MHu9J8li31PmfpbWI/">GitBook admin</a></td><td><a href="https://farran.gitbook.io/personal">GitBook website</a></td><td><a href="./">.</a></td></tr><tr><td><mark style="color:green;">→ Notebook</mark> </td><td><a href="https://app.gitbook.com/o/eNO8roz9wVxeqyYOww4H/s/H41wXmakda3xtpVGXDI2/">GitBook admin</a></td><td><a href="https://farran.gitbook.io/personal/notebook">GitBook website</a></td><td><a href="https://app.gitbook.com/o/eNO8roz9wVxeqyYOww4H/s/H41wXmakda3xtpVGXDI2/">Notebook</a></td></tr></tbody></table>
 
