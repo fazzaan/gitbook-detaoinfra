@@ -43,8 +43,13 @@
 
 ## Recommended
 
-* [Music](recommended/music.md)
+* [Speakers](recommended/speakers.md)
+* [Music](recommended/music/README.md)
+  * [Mantra music](recommended/music/mantra-music.md)
+  * [Meditation music](recommended/music/meditation-music.md)
+  * [Conscious Rap](recommended/music/conscious-rap.md)
 * [Books](recommended/books.md)
+* [Series](recommended/series.md)
 * [Films](recommended/films.md)
 * [Games](recommended/games.md)
 * [Creative practices](recommended/creative-practices.md)
