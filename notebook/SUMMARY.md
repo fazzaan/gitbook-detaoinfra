@@ -18,6 +18,7 @@
 * [Root](journal/root.md)
 * ["AI" LLMs](journal/ai-llms/README.md)
   * [Problems](journal/ai-llms/problems.md)
+* [Secret Passage theory and Futuring](journal/secret-passage-theory-and-futuring.md)
 
 ## Creative ideas
 
