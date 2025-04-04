@@ -42,13 +42,13 @@ I started imagining how to organise all my ideas, projects, plans, portfolio, re
 
 I couldn't find something that easily matched my requirements & desires, but a friend pointed me in the direction of GitBook and, well, here we are.&#x20;
 
-I've verily & absolutely accidentally built an entire battalion of websites with sub-sites and pages and sub-pages galore! Check the [#quick-access-multi-site-map](./#quick-access-multi-site-map "mention") section to see all the sites.&#x20;
+I've verily & absolutely accidentally built an entire battalion of websites with sub-sites and pages and sub-pages galore! Check the [multi-site-map.md](multi-site-map.md "mention") section to see all the sites.&#x20;
 
 
 
 Aside from my portfolio, which is indeed to sell myself and my skills and get more side hustles and main hustles, _**this information is specifically for your benefit.**_
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _**This information is specifically for your benefit.**_
 {% endhint %}
 
@@ -80,7 +80,7 @@ _**And the next information is specifically for the benefit of: Everything, Ever
 * how to display research data in useful visual ways for public & officials to understand&#x20;
 
 {% hint style="success" %}
-Check the [#quick-access-multi-site-map](./#quick-access-multi-site-map "mention") section to see all the sites, and please do feel free to share any pages with your friends and family if they would find it useful and helpful!
+Check the [multi-site-map.md](multi-site-map.md "mention") section to see all the sites, and please do feel free to share any pages with your friends and family if they would find it useful and helpful!
 {% endhint %}
 
 {% hint style="info" %}
@@ -102,8 +102,6 @@ Probably check the [Broken link](broken-reference "mention") page.&#x20;
 {% content-ref url="contact/contact-me.md" %}
 [contact-me.md](contact/contact-me.md)
 {% endcontent-ref %}
-
-
 
 
 
