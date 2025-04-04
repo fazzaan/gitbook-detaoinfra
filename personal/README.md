@@ -7,7 +7,7 @@ _This is my main homepage. All my other websites can be found from here._
 I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
 
 {% hint style="danger" %}
-warning: i swear on my website whenever i want to and i don't give a fuck if you don't like it, there are indeed things in this life that need swearing about and i shall do so. if you're offended by swearing then we ain't gonna work well together 👋&#x20;
+warning: i swear on my website whenever i want to, there are indeed things in this life that need swearing about and i shall do so. It's not all the time so if there is a swear then it's probably for a reasonable reason 😁
 {% endhint %}
 
 I'm passionate about&#x20;

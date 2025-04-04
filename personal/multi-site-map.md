@@ -12,7 +12,7 @@ Zoom by pinching on a touchpad or Ctrl+Scrolling with a mouse.
 
 Click on the titles to visit that website! (Hopefully you can use Ctrl+Click or Middle Click to open them in new tabs.)
 
-{% embed url="https://www.figma.com/board/7xdMyj0vRvCEodrOfBzNYu/Webites-Tree?node-id=0-1&t=nUBKRUluGM6pUB5J-1" fullWidth="true" %}
+{% embed url="https://www.figma.com/board/7xdMyj0vRvCEodrOfBzNYu/Webites-Tree?node-id=0-1&t=nUBKRUluGM6pUB5J-1" fullWidth="false" %}
 
 
 
