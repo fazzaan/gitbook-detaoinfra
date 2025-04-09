@@ -4,11 +4,7 @@ description: For fun, for sci-fi & fantasy, for a new English alphabet.
 
 # 🅰️ Font design
 
-_<mark style="color:red;">SIMPLE</mark> portfolio here — only show **each** item and metadata._&#x20;
-
-_Link to **main portfolio** site in phlowyd design gitbook_
-
-_Click on each to view_&#x20;
+_Click on each to view. (Will take you to the Phlowyd Design website)_
 
 ## Fonts
 

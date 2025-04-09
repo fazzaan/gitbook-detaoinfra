@@ -19,7 +19,20 @@ _**Buttons link to separate websites.**_
 
 _Scroll down to see ebook chapters._
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">💻</td><td align="center"><strong>FarrAndDroid Tech Support</strong></td><td>Tech tips for your computer, typing, file management, privacy &#x26; security, Android.</td><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/">https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/</a></td></tr><tr><td align="center">🅰️</td><td align="center"><strong>Phlowyd Linguistics</strong></td><td>Understanding English spelling; mastering pronunciation; and <em>NewEng</em>, the new alphabet for English.</td><td><a href="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/">https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/</a></td></tr><tr><td align="center">☯️</td><td align="center"><strong>Phlowyd Mentalics</strong></td><td>Mastering your mind, mastering skills, mastering health.</td><td><a href="https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/UQGHaZ9rdsQ3XORhJQYu/">https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/UQGHaZ9rdsQ3XORhJQYu/</a></td></tr><tr><td align="center">⚛️</td><td align="center"><strong>Sciencing</strong></td><td>How to become a scientist. Science communication; data visualisation.</td><td><a href="https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/nCGaI48cwt6GU0yMEDkK/">https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/nCGaI48cwt6GU0yMEDkK/</a></td></tr><tr><td align="center">🌏</td><td align="center"><strong>Planet Guardians</strong></td><td>What we can do to be a part of protecting and preserving our home, Gaia.</td><td><a href="https://app.gitbook.com/o/gQ7qELmcsrzalxe9akLR/s/x4XBbH5vHVRlbAgcvCZg/">https://app.gitbook.com/o/gQ7qELmcsrzalxe9akLR/s/x4XBbH5vHVRlbAgcvCZg/</a></td></tr></tbody></table>
+In my opinion, the most important things at this time are:
+
+1. Developing our ability to be guardians of the planet and Mother Nature
+2. Becoming more scientific so that we can discover the best ways to take care of the planet
+3. Mastering our minds so that we are not controlled by habits and vices, the media, the governments.
+   1. This comes with the added bonuses of learning more deeply, problem-solving, etc.
+
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">🌏</td><td align="center"><strong>Planet Guardians</strong></td><td>What we can do to be a part of protecting and preserving our home, Gaia.</td><td><a href="https://app.gitbook.com/o/gQ7qELmcsrzalxe9akLR/s/x4XBbH5vHVRlbAgcvCZg/">https://app.gitbook.com/o/gQ7qELmcsrzalxe9akLR/s/x4XBbH5vHVRlbAgcvCZg/</a></td></tr><tr><td align="center">⚛️</td><td align="center"><strong>Sciencing</strong></td><td>How to become a scientist. Science communication; data visualisation.</td><td><a href="https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/nCGaI48cwt6GU0yMEDkK/">https://app.gitbook.com/o/1wuAqxV16bRCOWrIRz6q/s/nCGaI48cwt6GU0yMEDkK/</a></td></tr><tr><td align="center">☯️</td><td align="center"><strong>Phlowyd Mentalics</strong></td><td>Mastering your mind, mastering skills, mastering health.</td><td><a href="https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/UQGHaZ9rdsQ3XORhJQYu/">https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/UQGHaZ9rdsQ3XORhJQYu/</a></td></tr><tr><td align="center">🅰️</td><td align="center"><strong>Phlowyd Linguistics</strong></td><td>Understanding English spelling; mastering pronunciation; and <em>NewEng</em>, the new alphabet for English.</td><td><a href="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/">https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/qietP059fhAwTgrpg1oR/</a></td></tr><tr><td align="center">💻</td><td align="center"><strong>FarrAndDroid Tech Support</strong></td><td>Tech tips for your computer, typing, file management, privacy &#x26; security, Android.</td><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/">https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/SvMwDma3YIsN6hmiEFs1/</a></td></tr></tbody></table>
+
+### 2D map
+
+There is too much to put here really though so here's a 2D map instead. It's a Figma Jam board, embedded in this here site, so give it a second to load!
+
+{% embed url="https://www.figma.com/board/7xdMyj0vRvCEodrOfBzNYu/Websites-Tree?node-id=0-1&t=9RN7ndLJ0djkR7ki-1" %}
 
 ***
 
@@ -56,8 +69,6 @@ _Windows settings, choosing devices, media playing, internet safety, web browser
 → 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/windows-usage/custom-keyboard-layouts](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/windows-usage/custom-keyboard-layouts "mention")&#x20;
 
 → 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/web-browser-setup/alternatives-to-google-and-bing](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/web-browser-setup/alternatives-to-google-and-bing "mention")
-
-→ 🔗 [Broken link](broken-reference "mention")
 
 → 🔗 [https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/entertainment/torrenting](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/entertainment/torrenting "mention")
 
