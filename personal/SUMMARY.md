@@ -45,6 +45,7 @@
 
 * [Speakers](recommended/speakers.md)
 * [Music](recommended/music/README.md)
+  * [Messlist](recommended/music/messlist.md)
   * [Mantra music](recommended/music/mantra-music.md)
   * [Meditation music](recommended/music/meditation-music.md)
   * [Conscious Rap](recommended/music/conscious-rap.md)
