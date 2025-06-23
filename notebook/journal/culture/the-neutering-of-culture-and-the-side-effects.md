@@ -1,3 +1,7 @@
+---
+description: 23rd June 2025
+---
+
 # The Neutering of Culture and the Side Effects
 
 I just had a thought train arrive. i feel like I've had it before and I feel like maybe even talked about it with someone.
@@ -20,9 +24,11 @@ Many of us separate ourselves from religion nowadays, not because religion is in
 
 As the culture of Albion got consumed by Christianity, when we separate from christianity, we also separate from the culture. Additionally, people who follow a somewhat celtic style life, looking rather pagan, get seen as witchy, superstitious, etc, are generally looked down on socially.
 
-European colonisation of America is another whole layer of that and then some, but I'm just considering the peculiar void of culture-y culture in the UK
+European colonisation of America is another whole layer of that and then some, but for now I'm just considering the peculiar void of culture-y culture in the UK.
 
-There is a well-known practice called EEE, it's an alternative to Divide & Conquer. EEE = Embrace, Extend, Extinguish.
+
+
+There is a well-known practice called EEE, it's an alternative to Divide & Conquer. EEE = Embrace, Extend, Extinguish. Microsoft is a particular lover of this practice.
 
 1. **Embrace**: An attacker embraces another entity (be it akin, dominant or weaker), luring them into a false sense of security.
 2. **Extend**: Then the attacker extends the entity, e.g. with features, affordances, improvements, facilities, whatever.
