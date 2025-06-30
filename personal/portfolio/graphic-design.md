@@ -5,21 +5,20 @@ icon: compass-drafting
 
 # Graphic design work
 
-sample of portfolio here
-
-link to main portfolio site in phlowyd design gitbook
-
-link to behance profile
-
-
-
 Visit my main design portfolio site here:
 
-{% content-ref url="../companies/phlowyd-design.md" %}
-[phlowyd-design.md](../companies/phlowyd-design.md)
-{% endcontent-ref %}
+<p align="center"><a href="https://app.gitbook.com/s/Jz3BfoxqzUCPONNAxkIl/portfolio/graphic-design" class="button primary">Graphic Design portfolio page on Phlowyd Design website</a></p>
 
 Visit my graphic design portfolio on Bēhance here:
 
 {% embed url="https://www.behance.net/Farran" %}
 
+
+
+***
+
+#### To include:
+
+* sample of portfolio here
+* link to main portfolio site in phlowyd design gitbook
+* link to behance profile

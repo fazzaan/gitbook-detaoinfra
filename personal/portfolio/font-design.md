@@ -4,6 +4,8 @@ description: For fun, for sci-fi & fantasy, for a new English alphabet.
 
 # 🅰️ Font design
 
+<p align="center"><a href="https://app.gitbook.com/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design" class="button primary">Font Design portfolio page on Phlowyd Design website</a></p>
+
 {% hint style="danger" %}
 ## HELLO FIVERR VISITORS!!!
 
@@ -18,7 +20,7 @@ description: For fun, for sci-fi & fantasy, for a new English alphabet.
 I would prefer to not use Fiverr at all, but had my first clients on there before realising that it is an Israeli company. Now I have some reviews and a portfolio of projects, so it is my only lead generating platform.
 {% endhint %}
 
-_Click on each to view. (Will take you to the Phlowyd Design website)_
+_Click on each font card to view. (Will take you to the Phlowyd Design website)_
 
 ## Fonts
 
