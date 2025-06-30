@@ -68,7 +68,7 @@ Please visit the [support-me.md](support-me.md "mention") page to see how you ca
 {% endcolumn %}
 
 {% column %}
-<a href="https://www.paypal.me/farran" class="button secondary">PayPal.me / Farran</a>
+<p align="center"><a href="https://www.paypal.me/farran" class="button secondary">PayPal.me / Farran</a></p>
 {% endcolumn %}
 {% endcolumns %}
 

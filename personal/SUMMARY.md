@@ -4,6 +4,7 @@
 * [Support Me](support-me.md)
 * [Store (free!)](store-free.md)
 * [Multi-site Map](multi-site-map.md)
+* [Political stance](political-stance.md)
 
 ## Portfolio
 
