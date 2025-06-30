@@ -36,14 +36,13 @@
 ## Work Reviews
 
 * [Sectors](work-reviews/sectors.md)
+* [Graphic Design](work-reviews/graphic-design.md)
 * [Cambly English tutor](work-reviews/cambly-english-tutor.md)
 * [Private English tutor](work-reviews/private-english-tutor.md)
 * [FarrAndDroid Tech Support](work-reviews/farranddroid-tech-support.md)
-* [Graphic Design](work-reviews/graphic-design.md)
 
 ## Recommended
 
-* [Speakers](recommended/speakers.md)
 * [Music](recommended/music/README.md)
   * [Messlist](recommended/music/messlist.md)
   * [Mantra music](recommended/music/mantra-music.md)
@@ -53,5 +52,6 @@
 * [Series](recommended/series.md)
 * [Films](recommended/films.md)
 * [Games](recommended/games.md)
+* [Speakers](recommended/speakers.md)
 * [Creative practices](recommended/creative-practices.md)
 * [Exercises](recommended/exercises.md)

@@ -4,19 +4,35 @@
 _This is my main homepage. All my other websites can be found from here._
 {% endhint %}
 
+{% columns %}
+{% column width="41.66666666666667%" %}
 I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
+{% endcolumn %}
 
+{% column %}
 {% hint style="danger" %}
 warning: i swear on my website whenever i want to, there are indeed things in this life that need swearing about and i shall do so. It's not all the time so if there is a swear then it's probably for a reasonable reason 😁
 {% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
-I'm passionate about&#x20;
+<details>
 
-* **science**: biology, biotechnology, and environmentalism;&#x20;
-* **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology;&#x20;
+<summary>I'm passionate about</summary>
+
+* s**cience**: biology, biotechnology, and environmentalism;&#x20;
+
+- **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology;&#x20;
+
 * **learning & education**: the psychology & neurology of effective learning;&#x20;
-* **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance;
+
+- **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance;
+
 * **technology**: tech doesn't need to be the effective downfall of civilisation and the planet; we can develop it and use it in right ways.
+
+</details>
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 Most of what I do, I don't get paid for.&#x20;
@@ -27,12 +43,20 @@ It is inordinately difficult to gain any momentum when the daily grind and vario
 
 If you can support me with £1, £5, £50, £100, whatever, I would be so grateful!&#x20;
 
-Please visit the [support-me.md](support-me.md "mention") page to see which ways you can send me support.&#x20;
+Please visit the [support-me.md](support-me.md "mention") page to see how you can send me support, or go to [my PayPal](https://www.paypal.me/farran).&#x20;
 {% endhint %}
 
+{% columns %}
+{% column width="58.333333333333336%" %}
 {% content-ref url="support-me.md" %}
 [support-me.md](support-me.md)
 {% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+<a href="https://www.paypal.me/farran" class="button secondary">PayPal.me / Farran</a>
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
