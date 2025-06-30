@@ -34,7 +34,7 @@ warning: i swear on my website whenever i want to, there are indeed things in th
 
 <summary>I'm passionate about...</summary>
 
-* s**cience**: biology, biotechnology, and environmentalism
+* **science**: biology, biotechnology, and environmentalism
 
 - **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology
 
