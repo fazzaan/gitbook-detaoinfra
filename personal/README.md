@@ -18,28 +18,28 @@ warning: i swear on my website whenever i want to, there are indeed things in th
 
 <details>
 
-<summary>I'm passionate about</summary>
+<summary>I'm passionate about...</summary>
 
-* s**cience**: biology, biotechnology, and environmentalism;&#x20;
+* s**cience**: biology, biotechnology, and environmentalism
 
-- **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology;&#x20;
+- **linguistics**: clear communication, pronunciation skills, scripts (alphabets etc.), etymology
 
-* **learning & education**: the psychology & neurology of effective learning;&#x20;
+* **learning & education**: the psychology & neurology of effective learning
 
-- **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance;
+- **consciousness**: the biology & neurology of perception; types of conscious states; types of awareness; types of meditation; states of trance
 
-* **technology**: tech doesn't need to be the effective downfall of civilisation and the planet; we can develop it and use it in right ways.
+* **technology**: tech doesn't need to be the effective downfall of civilisation and the planet; we can develop it and use it in right ways
 
 </details>
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 Most of what I do, I don't get paid for.&#x20;
 
 It is not marketable, it is not profitable. But it is for the good of Life & Consciousness.
 
-It is inordinately difficult to gain any momentum when the daily grind and various other events keep setting me back.&#x20;
+It is inordinately difficult to gain any momentum amidst the setbacks of the daily grind and other events.&#x20;
 
 If you can support me with £1, £5, £50, £100, whatever, I would be so grateful!&#x20;
 
