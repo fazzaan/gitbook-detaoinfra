@@ -6,14 +6,15 @@
 
 ## Messaging
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><em>Nostr chat (inactive)</em></td><td></td></tr><tr><td>Telegram</td><td><a href="https://t.me/farran">https://t.me/farran</a></td></tr><tr><td><em>Signal (inactive)</em></td><td></td></tr><tr><td><em>More coming soon</em></td><td></td></tr><tr><td>Gmail (Google)</td><td><a href="mailto:fuzzle6+gitbookfarran@gmail.com">mailto:fuzzle6+gitbookfarran@gmail.com</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><em>Nostr chat (inactive)</em></td><td></td></tr><tr><td>Telegram</td><td><a href="https://t.me/farran">https://t.me/farran</a></td></tr><tr><td>Signal</td><td><a href="https://signal.me/#eu/1YXJuGyqP6k6rYvKVKHz8EwHtqsZ1chOnK4OAoYwMz92WVm1sOdPMqA53Xg4id4S">https://signal.me/#eu/1YXJuGyqP6k6rYvKVKHz8EwHtqsZ1chOnK4OAoYwMz92WVm1sOdPMqA53Xg4id4S</a></td></tr><tr><td>Gmail (Google)</td><td><a href="mailto:fuzzle6+gitbookfarran@gmail.com">mailto:fuzzle6+gitbookfarran@gmail.com</a></td></tr><tr><td><em>More coming soon</em></td><td></td></tr></tbody></table>
 
 ## Legacy social media (avoid)
 
 * avoid
 * high-level & low-level & deep-level tracking
-* building big-data models of human behaviour to control & subjugate everyone
-* fuck them into hell from whence they came
+* they are building big-data models of human behaviour to control & subjugate everyone
+* fuck them back into hell from whence they came
+  * (_**for real**_ — facebook originated as a social network for leery male university students to rate female university students. Gross.)
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Facebook (Meta)</td><td><a href="https://www.facebook.com/FarranDeTao">https://www.facebook.com/FarranDeTao</a></td></tr><tr><td>Instagram (Meta)</td><td><a href="https://www.instagram.com/fazzaan/">https://www.instagram.com/fazzaan/</a></td></tr><tr><td>Threads (Meta)</td><td><a href="https://www.threads.net/@fazzaan">https://www.threads.net/@fazzaan</a></td></tr></tbody></table>
 

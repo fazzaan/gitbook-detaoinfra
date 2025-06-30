@@ -8,7 +8,7 @@
 ## Portfolio
 
 * [ℹ️ Portfolio info](portfolio/info.md)
-* [📚 GitBook publications](portfolio/gitbook-publications.md)
+* [📚 GitBook sites](portfolio/gitbook-sites.md)
 * [Linguistics](portfolio/linguistics.md)
 * [English education](portfolio/english-education.md)
 * [⚛️ Science research](portfolio/science-research.md)

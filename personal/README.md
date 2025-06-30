@@ -1,12 +1,26 @@
 # ☯️ Farran De Tao Homepage
 
+{% columns %}
+{% column width="66.66666666666666%" %}
+Hi! I'm Farran.
+
+I'm a freelancer. In my work, I specialise in English education, pronunciation training, graphic design, font design, and flow arts.&#x20;
+
+I'm also keen on linguistics, and I'm creating a new way of writing and spelling English, called _NewEng_.
+
+In my free time I enjoy listening to music, singing, and playing guitar & flute! Sometimes I do yoga & calisthenics, and flow with poi & staff.
+{% endcolumn %}
+
+{% column %}
+<figure><img src=".gitbook/assets/Blue Light Circle Vector.svg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column width="33.33333333333333%" %}
 {% hint style="info" %}
 _This is my main homepage. All my other websites can be found from here._
 {% endhint %}
-
-{% columns %}
-{% column width="41.66666666666667%" %}
-I'm a freelancer. In my work, I specialise in teaching English, pronunciation training, graphic design, font design, and flow arts (a type of performing arts).&#x20;
 {% endcolumn %}
 
 {% column %}
@@ -32,7 +46,7 @@ warning: i swear on my website whenever i want to, there are indeed things in th
 
 </details>
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center">Other <a data-mention href="portfolio/gitbook-sites.md">gitbook-sites.md</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr><tr><td align="center"><a data-mention href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 Most of what I do, I don't get paid for.&#x20;
@@ -71,7 +85,7 @@ _This website has a portfolio of all my works, and various stuff from around the
 {% endhint %}
 
 * [📄 Portfolio](broken-reference) (simple overview) — language, design, art, computing, websites
-  * Links to other [📄📚 GitBook websites](portfolio/gitbook-publications.md)&#x20;
+  * Links to other [📄📚 GitBook websites](portfolio/gitbook-sites.md)&#x20;
   * Links to my [🌐📐 Phlowyd Design portfolio site](https://app.gitbook.com/s/Jz3BfoxqzUCPONNAxkIl/)&#x20;
 * [📃 Companies](companies/info.md) — music (psyjel/dsf), English edu (deltastep, thay phong), design (phlowyd, teetao),&#x20;
 * [📄 Contact](broken-reference) — email, messaging, social media, work (linkedin) etc&#x20;
