@@ -16,11 +16,11 @@
 ## Poetry Rap Lyrics
 
 * [Poems](poetry-rap-lyrics/poems/README.md)
-  * [Relinquish (2020)](poetry-rap-lyrics/poems/relinquish-2020.md)
-  * [Healing (2019)](poetry-rap-lyrics/poems/healing-2019.md)
-  * [Okeanós (2019)](poetry-rap-lyrics/poems/okeanos-2019.md)
-  * [Ripples (2019)](poetry-rap-lyrics/poems/ripples-2019.md)
   * [Shine Love (2024)](poetry-rap-lyrics/poems/shine-love-2024.md)
+  * [Relinquish (2020)](poetry-rap-lyrics/poems/relinquish-2020.md)
+  * [Ripples (2019)](poetry-rap-lyrics/poems/ripples-2019.md)
+  * [Okeanós (2019)](poetry-rap-lyrics/poems/okeanos-2019.md)
+  * [Healing (2019)](poetry-rap-lyrics/poems/healing-2019.md)
 
 ## Journal
 
