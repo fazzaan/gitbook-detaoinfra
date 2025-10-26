@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ℹ️ Portfolio info
 
 I do too many things tbh and I am tired 😪

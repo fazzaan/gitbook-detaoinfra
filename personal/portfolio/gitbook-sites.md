@@ -1,19 +1,8 @@
 ---
 description: Tech tips, linguistics, skill mastery, science, health.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# 📚 GitBook publications
+# 📚 GitBook sites
 
 _**Buttons link to separate websites.**_
 

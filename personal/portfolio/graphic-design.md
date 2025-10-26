@@ -7,7 +7,7 @@ icon: compass-drafting
 
 Visit my main design portfolio site here:
 
-<p align="center"><a href="https://app.gitbook.com/s/Jz3BfoxqzUCPONNAxkIl/portfolio/graphic-design" class="button primary">Graphic Design portfolio page on Phlowyd Design website</a></p>
+<p align="center"><a href="https://app.gitbook.com/s/Jz3BfoxqzUCPONNAxkIl/portfolio/graphic-design-work" class="button primary">Graphic Design portfolio page on Phlowyd Design website</a></p>
 
 Visit my graphic design portfolio on Bēhance here:
 

@@ -24,7 +24,7 @@
 ## Companies
 
 * [Companies info](companies/info.md)
-* [🪼 Deep Sea Frequencies (previously Psychedelic Jelly)](companies/deep-sea-frequencies.md)
+* [🪼 Deep Sea Frequencies](companies/deep-sea-frequencies.md)
 * [DeltaStep English](companies/deltastep-english.md)
 * [FarrAndDroid Tech](companies/farranddroid-tech.md)
 * [📐 Phlowyd Design](companies/phlowyd-design.md)
@@ -42,17 +42,17 @@
 * [Private English tutor](work-reviews/private-english-tutor.md)
 * [FarrAndDroid Tech Support](work-reviews/farranddroid-tech-support.md)
 
-## Recommended
+## Recommendations
 
-* [Music](recommended/music/README.md)
-  * [Messlist](recommended/music/messlist.md)
-  * [Mantra music](recommended/music/mantra-music.md)
-  * [Meditation music](recommended/music/meditation-music.md)
-  * [Conscious Rap](recommended/music/conscious-rap.md)
-* [Books](recommended/books.md)
-* [Series](recommended/series.md)
-* [Films](recommended/films.md)
-* [Games](recommended/games.md)
-* [Speakers](recommended/speakers.md)
-* [Creative practices](recommended/creative-practices.md)
-* [Exercises](recommended/exercises.md)
+* [Music](recommendations/music/README.md)
+  * [Messlist](recommendations/music/messlist.md)
+  * [Mantra music](recommendations/music/mantra-music.md)
+  * [Meditation music](recommendations/music/meditation-music.md)
+  * [Conscious Rap](recommendations/music/conscious-rap.md)
+* [Books](recommendations/books.md)
+* [Series](recommendations/series.md)
+* [Films](recommendations/films.md)
+* [Games](recommendations/games.md)
+* [Speakers](recommendations/speakers.md)
+* [Creative practices](recommendations/creative-practices.md)
+* [Exercises](recommendations/exercises.md)
