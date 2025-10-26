@@ -64,7 +64,7 @@ a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u
 
 _Visit the NewEng website (_[https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basics-of-neweng/diacritics-system](https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basics-of-neweng/diacritics-system "mention")) _to see all the diacritiqued letters — there are too many to put here!_
 
-* Supported by: Thaiic, Hangeulic, Runic, TallThin, Baseline Sqaare
+* Supported by: Thaiic, Hangeulic, Runic, TallThin, Baseline Square
 * In development: Leaf Tech
 
 ### Greek
@@ -80,39 +80,7 @@ _Visit the NewEng website (_[https://app.gitbook.com/s/nQuhfcBU5w4vA1rwurTv/basi
 
 A Á À Ả Ã Ạ Â Ấ Ầ Ẩ Ẫ Ậ Ă Ắ Ằ Ẳ Ẵ Ặ — a á à ả ã ạ â ấ ầ ẩ ẫ ậ ă ắ ằ ẳ ẵ ặ
 
-{% columns %}
-{% column width="25%" %}
-A Á À Ả Ã Ạ
-
-Â Ấ Ầ Ẩ Ẫ Ậ
-
-Ă Ắ Ằ Ẳ Ẵ Ặ
-{% endcolumn %}
-
-{% column width="25%" %}
-a á à ả ã ạ
-
-â ấ ầ ẩ ẫ ậ
-
-ă ắ ằ ẳ ẵ ặ
-{% endcolumn %}
-
-{% column width="25%" %}
-E É È Ẻ Ẽ Ẹ
-
-Ê Ế Ề Ể Ễ Ệ
-
-I Í Ì Ỉ Ĩ Ị
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-e é è ẻ ẽ ẹ
-
-ê ế ề ể ễ ệ
-
-i í ì ỉ ĩ ị
-{% endcolumn %}
-{% endcolumns %}
+Đ đ
 
 E É È Ẻ Ẽ Ẹ Ê Ế Ề Ể Ễ Ệ — e é è ẻ ẽ ẹ ê ế ề ể ễ ệ
 
@@ -122,7 +90,7 @@ O Ó Ò Ỏ Õ Ọ Ô Ố Ồ Ổ Ỗ Ộ Ơ Ớ Ờ Ở Ỡ Ợ — o ó ò ỏ
 
 U Ú Ù Ủ Ũ Ụ Ư Ú Ừ Ử Ữ Ự — u ú ù ủ ũ ụ ư ú ừ ử ữ ự
 
-Đ đ
+And the rest of the standard Latin alphabet.
 
 * Supported by: Leaf Tech
 * Regular fonts: see my font support document; [Google Fonts](https://fonts.google.com/?lang=vi_Latn)
@@ -133,14 +101,19 @@ An alphabet that I made to simplify and shorten spelling in Vietnamese.
 
 \~\~\~
 
-Supported by: None yet
+Supported by: _None yet because I haven't perfected the NewViet alphabet & orthography._
 
 ### Latin Extended
 
 #### Spanish
 
-ds
+Consonants: Ñ ñ (Ç ç)
+
+Symbols: ℆ º ª № ¿ ? ¡ ! « »
 
 #### Portuguese
 
-#### French
+Vowels: Á Â Ã À É Ê Í Ó Ô Õ Ú — á â ã à é ê í ó ô õ ú
+
+Consonants: Ç ç
+
