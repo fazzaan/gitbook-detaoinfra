@@ -1,5 +1,15 @@
 # Linguistics ideas
 
+{% hint style="info" %}
+This page will unavoidably end up out of date.
+
+Please visit my conlang website instead:
+
+[English Extensions and Modifications](https://lang.gitbook.io/en/conlangs/english-extensions)&#x20;
+{% endhint %}
+
+
+
 _A bunch of my ideas for creating, mutating and otherwise modifying languages._
 
 <details>
