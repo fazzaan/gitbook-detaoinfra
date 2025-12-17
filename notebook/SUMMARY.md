@@ -12,6 +12,7 @@
 * [2025](blog/2025/README.md)
   * [Jánūăry](blog/2025/january.md)
   * [Marч](blog/2025/march.md)
+  * [Deçémber](blog/2025/december.md)
 
 ## Poetry Rap Lyrics
 
