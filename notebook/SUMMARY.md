@@ -6,13 +6,13 @@
 
 * [Root](notebase/root.md)
 
-## Blog
+## Journal
 
-* [Root](blog/root.md)
-* [2025](blog/2025/README.md)
-  * [Jánūăry](blog/2025/january.md)
-  * [Marч](blog/2025/march.md)
-  * [Deçémber](blog/2025/december.md)
+* [Root](journal/root.md)
+* [2025](journal/2025/README.md)
+  * [Jánūăry](journal/2025/january.md)
+  * [Marч](journal/2025/march.md)
+  * [Dėçémber](journal/2025/december.md)
 
 ## Poetry Rap Lyrics
 
@@ -23,17 +23,17 @@
   * [Okeanós (2019)](poetry-rap-lyrics/poems/okeanos-2019.md)
   * [Healing (2019)](poetry-rap-lyrics/poems/healing-2019.md)
 
-## Journal
+## Discussion
 
-* [Root](journal/root.md)
-* [Culture](journal/culture/README.md)
-  * [The Neutering of Culture and the Side Effects](journal/culture/the-neutering-of-culture-and-the-side-effects.md)
-  * [Slavery & Oppression of The Beasts](journal/culture/slavery-and-oppression-of-the-beasts.md)
-* [Climate](journal/climate/README.md)
-  * [Ecosystem vs Economy (Capitalism versus Balance)](journal/climate/ecosystem-vs-economy-capitalism-versus-balance.md)
-* ["AI" LLMs](journal/ai-llms/README.md)
-  * [Problems](journal/ai-llms/problems.md)
-* [Secret Passage theory and Futuring](journal/secret-passage-theory-and-futuring.md)
+* [Root](discussion/root.md)
+* [Culture](discussion/culture/README.md)
+  * [The Neutering of Culture and the Side Effects](discussion/culture/the-neutering-of-culture-and-the-side-effects.md)
+  * [Slavery & Oppression of The Beasts](discussion/culture/slavery-and-oppression-of-the-beasts.md)
+* [Climate](discussion/climate/README.md)
+  * [Ecosystem vs Economy (Capitalism versus Balance)](discussion/climate/ecosystem-vs-economy-capitalism-versus-balance.md)
+* ["AI" LLMs](discussion/ai-llms/README.md)
+  * [Problems](discussion/ai-llms/problems.md)
+* [Secret Passage theory and Futuring](discussion/secret-passage-theory-and-futuring.md)
 
 ## Creative ideas
 
