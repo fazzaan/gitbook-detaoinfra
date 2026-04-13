@@ -4,6 +4,8 @@
 ## So...
 
 read the [weird-background-info.md](weird-background-info.md "mention") to learn more about the current state of SubAscensionism.
+
+I've also duplicated the article from the BJAODN website — [bjaodn-duplicate.md](bjaodn-duplicate.md "mention").&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
