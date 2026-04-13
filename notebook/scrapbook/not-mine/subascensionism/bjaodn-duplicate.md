@@ -6,6 +6,8 @@
 Due to this topic repeatedly being removed from various websites, I'm taking it upon myself to preserve it — sic — here.&#x20;
 
 This page is duplicated directly from [BJAODN.org](https://bjaodn.org/wiki/BJAODN_42:_The_Answer_to_Bad_Jokes,_the_Universe,_and_Other_Deleted_Nonsense#from_Subascensionism).&#x20;
+
+It should be noted that this page was only discovered via BRAVE'S search engine, and that the entire topic was totally unknown to Google's Gemini. It has also been completely scrubbed from Wikipedia, Wiki, and Uncyclopaedia.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
