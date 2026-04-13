@@ -32,7 +32,11 @@
 * [Climate](discussion/climate/README.md)
   * [Ecosystem vs Economy (Capitalism versus Balance)](discussion/climate/ecosystem-vs-economy-capitalism-versus-balance.md)
 * ["AI" LLMs](discussion/ai-llms/README.md)
-  * [Problems](discussion/ai-llms/problems.md)
+  * [Problems](discussion/ai-llms/problems/README.md)
+    * [Airoboros](discussion/ai-llms/problems/airoboros.md)
+    * [When is "AI" acceptable?](discussion/ai-llms/problems/when-is-ai-acceptable.md)
+    * [History Constructor](discussion/ai-llms/problems/history-constructor.md)
+    * [Artificial Interceptor](discussion/ai-llms/problems/artificial-interceptor.md)
 * [Secret Passage theory and Futuring](discussion/secret-passage-theory-and-futuring.md)
 
 ## Creative ideas

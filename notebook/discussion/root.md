@@ -1,7 +1,7 @@
 # Root
 
 * [ai-llms](ai-llms/ "mention")
-  * [problems.md](ai-llms/problems.md "mention")
+  * [problems](ai-llms/problems/ "mention")
 
 
 
