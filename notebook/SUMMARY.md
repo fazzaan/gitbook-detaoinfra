@@ -40,6 +40,13 @@
 * [Root](creative-ideas/root.md)
 * [Linguistics ideas](creative-ideas/linguistics-ideas.md)
 
+## Scrapbook
+
+* [Not Mine](scrapbook/not-mine/README.md)
+  * [SubAscensionism](scrapbook/not-mine/subascensionism/README.md)
+    * [Weird background info](scrapbook/not-mine/subascensionism/weird-background-info.md)
+    * [BJAODN duplicate](scrapbook/not-mine/subascensionism/bjaodn-duplicate.md)
+
 ## Administration <a href="#admin" id="admin"></a>
 
 * [Definitions](admin/definitions.md)
