@@ -78,6 +78,7 @@ Touché
 ```
 Am     Cmaj7        Dm     E7
 Oh tarirata tarirariro tararata
+
 Touché
 
 Am     Cmaj7        Dm     E7
