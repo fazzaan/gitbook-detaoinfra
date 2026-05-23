@@ -91,12 +91,18 @@ Bm    D/A    G  Em  Bm
 ### Verse 2
 
 ```
-               D/A             G      Em  Bm
-You hold the spade to turn new   soil
-               D/A                    G       E  Bm
-For the coming    grace, you hold the   plans
-                 D/A                         G         Em
-And no hands but     our hands will lead our   childre-en
+               D/A
+You hold the spade
+            G      Em  Bm
+to turn new   soil
+               D/A
+For the coming    grace,
+             G       E  Bm
+you hold the   plans
+                 D/A
+And no hands but     our hands
+              G         Em
+will lead our   childre-en
     Bm
 And all that will feed you is a fierce prayer,
 Bm                    D/A
