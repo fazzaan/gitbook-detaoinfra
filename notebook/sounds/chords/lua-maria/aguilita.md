@@ -16,7 +16,7 @@
 
 by [Lua Maria](https://www.ultimate-guitar.com/artist/lua_maria_158005) & [Adrian Freedman](https://www.ultimate-guitar.com/artist/adrian_freedman_158055)
 
-## \[Verse 1]
+### Verse 1
 
 ```
 Em
@@ -33,7 +33,7 @@ Dsus2 C    Em
 Ven,  ven, ven
 ```
 
-## \[Chorus]
+### Chorus
 
 ```
 D     Dsus2   Am        C     Em
@@ -42,7 +42,7 @@ D     Dsus2   Am        C     Em
 Lléva nos por tu camino,  sabio
 ```
 
-## \[Verse 2]
+### Verse 2
 
 ```
 Em
@@ -59,7 +59,7 @@ Dsus2    C  Em
 Allas de unidad
 ```
 
-## \[Chorus]
+### Chorus
 
 ```
 D     Dsus2   Am        C     Em
@@ -68,7 +68,7 @@ D     Dsus2   Am        C     Em
 Lléva nos por tu camino,  sabio
 ```
 
-## \[Verse 3]
+### Verse 3
 
 ```
 D               Am    C           Em
