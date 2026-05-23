@@ -18,65 +18,62 @@ by [Lua Maria](https://www.ultimate-guitar.com/artist/lua_maria_158005) & [Adria
 
 ### Verse 1
 
-```
-Em
+<pre><code>Em
 Abuelita aguilita,
-Dsus2 C    Em
-Ven,  ven, ven
-Em
+<strong>Dsus2 C    Em
+</strong><strong>Ven,  ven, ven
+</strong>Em
 Abuelita aguilita,
-Dsus2 C    Em
-Ven,  ven, ven
-Em
+<strong>Dsus2 C    Em
+</strong><strong>Ven,  ven, ven
+</strong>Em
 Abuelita aguilita,
-Dsus2 C    Em
-Ven,  ven, ven
-```
+<strong>Dsus2 C    Em
+</strong><strong>Ven,  ven, ven
+</strong></code></pre>
 
 ### Chorus
 
-```
-D     Dsus2   Am        C     Em
+<pre><code>D     Dsus2   Am        C     Em
 Lléva nos por tu camino,  sabio
-D     Dsus2   Am        C     Em
-Lléva nos por tu camino,  sabio
-```
+<strong>D     Dsus2   Am        C     Em
+</strong><strong>Lléva nos por tu camino,  sabio
+</strong></code></pre>
 
 ### Verse 2
 
-```
-Em
+<pre><code>Em
 Vuela vuela vuela vuela,
-Dsus2    C  Em
-Allas de unidad
-Em
+<strong>Dsus2    C  Em
+</strong><strong>Allas de unidad
+</strong>Em
 Vuela vuela vuela vuela,
-Dsus2    C  Em
-Allas de unidad
-Em
+<strong>Dsus2    C  Em
+</strong><strong>Allas de unidad
+</strong>Em
 Vuela vuela vuela vuela,
-Dsus2    C  Em
-Allas de unidad
-```
+<strong>Dsus2    C  Em
+</strong><strong>Allas de unidad
+</strong></code></pre>
 
 ### Chorus
 
-```
-D     Dsus2   Am        C     Em
+<pre><code>D     Dsus2   Am        C     Em
 Lléva nos por tu camino,  sabio
-D     Dsus2   Am        C     Em
-Lléva nos por tu camino,  sabio
-```
+<strong>D     Dsus2   Am        C     Em
+</strong><strong>Lléva nos por tu camino,  sabio
+</strong></code></pre>
 
 ### Verse 3
 
-```
-D               Am    C           Em
+<pre><code>D               Am    C           Em
 Cura, cu-u-ura, cura, cu wa ya ya yr
-D               Am    C            Em
-Cura, cu-u-ura, cura, ay ya yay ha yu-uu-uuu
-D               Am     C             Em
+<strong>D               Am    C            Em
+</strong><strong>Cura, cu-u-ura, cura, ay ya yay ha yu-uu-uuu
+</strong>D               Am     C             Em
 Cura, cu-u-ura, y y y, ay yay hi hay yuuuu
-D                Am      C            Em
-Cura, cu-u-uuuu, uwa ya, ay yay hi ay hyiii
-```
+<strong>D                Am      C            Em
+</strong><strong>Cura, cu-u-uuuu, uwa ya, ay yay hi ay hyiii
+</strong></code></pre>
+
+{% embed url="https://tabs.ultimate-guitar.com/tab/lua-maria/aguilita-chords-5866556" %}

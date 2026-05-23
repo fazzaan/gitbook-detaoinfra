@@ -14,73 +14,70 @@
 
 ## From The Ground Up Chords
 
-by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)&#x20;
+by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)
 
 ### Intro
 
 ```
-Bm    D/A    G  Em
+Bm    D/A    G    Em
 ```
 
 ### Verse 1
 
-```
-      Bm              D/A
+<pre><code>      Bm              D/A
 As a wave across the land
-        G      Em  Bm
-we are movin', movin'…
-              D/A
+<strong>        G      Em  Bm
+</strong><strong>we are movin', movin'…
+</strong>              D/A
 This ain't no     phase,
-                       G
-the change these bodies  make,
-         Em          Bm
+<strong>                       G
+</strong><strong>the change these bodies  make,
+</strong>         Em          Bm
 and the way they are
 
- Bm               D/A
-Facing forward, shoulder to the stone,
-G          Em       Bm
+<strong> Bm               D/A
+</strong><strong>Facing forward, shoulder to the stone,
+</strong>G          Em       Bm
 telling of movin' it
-(Bm)
-It takes one step,
-               D/A
+<strong>(Bm)
+</strong><strong>It takes one step,
+</strong>               D/A
 it takes your voice,
-(D/A)
-it takes your voice, sayin':
-```
+<strong>(D/A)
+</strong><strong>it takes your voice, sayin':
+</strong></code></pre>
 
-```
- G                    Em
+<pre><code> G                    Em
 "I am not hearing if you are not naming it
-G                     Em
-I am not stopping if you are not changing it
- G                      Em
+<strong>G                     Em
+</strong><strong>I am not stopping if you are not changing it
+</strong> G                      Em
 Here are my hands let's    see what they're makin'..."
-```
+</code></pre>
 
 ### Chorus
 
-```
-Bm                A
+<pre><code>Bm                A
   In the morning,   in the rise up,
-D                  Em
-  there's a bridge   from all that's been
-Bm                A
+<strong>D                  Em
+</strong><strong>  there's a bridge   from all that's been
+</strong>Bm                A
   In the dawning,   the vines are
-D           Em
-  pushing through the pavement
-Bm            A            D
+<strong>D           Em
+</strong><strong>  pushing through the pavement
+</strong>Bm            A            D
   We were born of burning hearts
-        Em                   Bm
-We are tearing off the reigns
-           A                    D
+<strong>        Em                   Bm
+</strong><strong>We are tearing off the reigns
+</strong>           A                    D
 From the ground up we will build  it
-           Em                   Bm
-From the clouds above we'll rain   it
-            A                  D
+<strong>           Em                   Bm
+</strong><strong>From the clouds above we'll rain   it
+</strong>            A                  D
 From the crowd up we will raise  it
-           Em        Bm
-From the ground up...
-```
+<strong>           Em        Bm
+</strong><strong>From the ground up...
+</strong></code></pre>
 
 ### Break
 
@@ -90,144 +87,136 @@ Bm    D/A    G  Em  Bm
 
 ### Verse 2
 
-```
-               D/A
+<pre><code>               D/A
 You hold the spade
-            G      Em  Bm
-to turn new   soil
-               D/A
+<strong>            G      Em  Bm
+</strong><strong>to turn new   soil
+</strong>               D/A
 For the coming    grace,
-             G       E  Bm
-you hold the   plans
-                 D/A
+<strong>             G       E  Bm
+</strong><strong>you hold the   plans
+</strong>                 D/A
 And no hands but     our hands
-              G         Em
-will lead our   childre-en
-    Bm
+<strong>              G         Em
+</strong><strong>will lead our   childre-en
+</strong>    Bm
 And all that will feed you is a fierce prayer,
-Bm                    D/A
-   is a fierce prayer,    sayin':
-```
+<strong>Bm                    D/A
+</strong><strong>   is a fierce prayer,    sayin':
+</strong></code></pre>
 
-```
- G                    Em
+<pre><code> G                    Em
 "I am not hearing if you are not naming it
-G                     Em
-I am not stopping if you are not changing it
- G                      Em
+<strong>G                     Em
+</strong><strong>I am not stopping if you are not changing it
+</strong> G                      Em
 Here are my hands let's    see what they're makin'.."
-```
+</code></pre>
 
 ### Chorus
 
-```
-Bm                A
+<pre><code>Bm                A
   In the morning,   in the rise up,
-D                  Em
-  there's a bridge   from all that's been
-Bm                A
+<strong>D                  Em
+</strong><strong>  there's a bridge   from all that's been
+</strong>Bm                A
   In the dawning,   the vines are
-D           Em
-  pushing through the pavement
-Bm            A            D
+<strong>D           Em
+</strong><strong>  pushing through the pavement
+</strong>Bm            A            D
   We were born of burning hearts
-        Em                   Bm
-We are tearing off the reigns
-           A                    D
+<strong>        Em                   Bm
+</strong><strong>We are tearing off the reigns
+</strong>           A                    D
 From the ground up we will build  it
-           Em                   Bm
-From the clouds above we'll rain   it
-            A                  D
+<strong>           Em                   Bm
+</strong><strong>From the clouds above we'll rain   it
+</strong>            A                  D
 From the crowd up we will raise  it
-           Em        Bm
-From the ground up...
-```
+<strong>           Em        Bm
+</strong><strong>From the ground up...
+</strong></code></pre>
 
 ### Break with trumpet
 
-```
-Bm    D/A    Bm    D/A
+<pre><code>Bm    D/A    Bm    D/A
 
-G  Em  G  Em  
+<strong>G  Em  G  Em  
+</strong><strong>
+</strong>E    E    Bm    Bm
 
-E    E    Bm    Bm
-```
+</code></pre>
 
 ### Bridge
 
-```
-A        Em     G         Bm
+<pre><code>A        Em     G         Bm
 In this life we   see so many things and
-A      Em       G             Bm
-  Sometimes our   heart may start to bleed a bit
-A         Em       G           Bm
+<strong>A      Em       G             Bm
+</strong><strong>  Sometimes our   heart may start to bleed a bit
+</strong>A         Em       G           Bm
   But I choose this  life I'm gonna lead and
-A         Em      G
-  I must give my hands
-
+<strong>A         Em      G
+</strong><strong>  I must give my hands
+</strong>
 to make it...
-```
+</code></pre>
 
 ### Chorus
 
-```
-Bm                A
+<pre><code>Bm                A
   In the morning,   in the rise up,
-D                  Em
-  there's a bridge   from all that's been
-Bm                A
+<strong>D                  Em
+</strong><strong>  there's a bridge   from all that's been
+</strong>Bm                A
   In the dawning,   the vines are
-D           Em
-  pushing through the pavement
-Bm            A            D
+<strong>D           Em
+</strong><strong>  pushing through the pavement
+</strong>Bm            A            D
   We were born of burning hearts
-        Em                   Bm
-We are tearing off the reigns
-           A                    D
+<strong>        Em                   Bm
+</strong><strong>We are tearing off the reigns
+</strong>           A                    D
 From the ground up we will build  it
-           Em                   Bm
-From the clouds above we'll rain   it
-            A                  D
+<strong>           Em                   Bm
+</strong><strong>From the clouds above we'll rain   it
+</strong>            A                  D
 From the crowd up we will raise  it
-```
+</code></pre>
 
-```
-           Em                   Bm
-From the ground up we will build  it
-           A                    D
+<pre><code><strong>           Em                   Bm
+</strong><strong>From the ground up we will build  it
+</strong>           A                    D
 From the clouds above we'll rain  it
-            Em                 Bm
-From the crowd up we will raise  it
-```
+<strong>            Em                 Bm
+</strong><strong>From the crowd up we will raise  it
+</strong></code></pre>
 
-```
-           A                    D
+<pre><code>           A                    D
 From the ground up we will build  it
-           Em                   Bm
-From the clouds above we'll rain   it
-            A                  D
+<strong>           Em                   Bm
+</strong><strong>From the clouds above we'll rain   it
+</strong>            A                  D
 From the crowd up we will raise  it
-```
+</code></pre>
 
-```
-           Em                   Bm
-From the ground up we will build  it
-           A                    D
+<pre><code><strong>           Em                   Bm
+</strong><strong>From the ground up we will build  it
+</strong>           A                    D
 From the clouds above we'll rain  it
-            Em                 Bm
-From the crowd up we will raise  it
-```
+<strong>            Em                 Bm
+</strong><strong>From the crowd up we will raise  it
+</strong></code></pre>
 
-```
-           A                    D
+<pre><code>           A                    D
 From the ground up we will build  it
-           Em                   Bm
-From the clouds above we'll rain   it
-            A                  D
+<strong>           Em                   Bm
+</strong><strong>From the clouds above we'll rain   it
+</strong>            A                  D
 From the crowd up we will raise  it
-```
+</code></pre>
 
-```
-           Em        Bm
-From the ground up...
-```
+<pre><code><strong>           Em        Bm
+</strong><strong>From the ground up...
+</strong></code></pre>
+
+{% embed url="https://tabs.ultimate-guitar.com/tab/ayla-nereo/from-the-ground-up-chords-3368609" %}

@@ -20,220 +20,221 @@ description: >-
 
 ## Cuñaq Chords
 
-by [Raio](https://www.ultimate-guitar.com/artist/raio_1710461) & [Sophie Sofree](https://www.ultimate-guitar.com/artist/sophie_sofree_1710464)&#x20;
+by [Raio](https://www.ultimate-guitar.com/artist/raio_1710461) & [Sophie Sofree](https://www.ultimate-guitar.com/artist/sophie_sofree_1710464)
 
-_Transcription of Cunaq by Raio and Sophie Sofree, found at_ [_soundcloud.com/pachamantra/cunaq-feat-sophie-sofree_](https://soundcloud.com/pachamantra/cunaq-feat-sophie-sofree)&#x20;
-
+_Transcription of Cunaq by Raio and Sophie Sofree, found at_ [_soundcloud.com/pachamantra/cunaq-feat-sophie-sofree_](https://soundcloud.com/pachamantra/cunaq-feat-sophie-sofree)
 
 ### Verso 1
-```
+
+<pre><code>Am
+Desde Cuñaq viene
+<strong>               C
+</strong><strong>Agüita serpenteando
+</strong>         Em               Am
+Por las acequias y en remolinos
+<strong>G              Am
+</strong><strong>Hacia nuestras vidas
+</strong>
+
 Am
 Desde Cuñaq viene
-               C
-Agüita serpenteando
-         Em               Am
+<strong>               C
+</strong><strong>Agüita serpenteando
+</strong>         Em               Am
 Por las acequias y en remolinos
-G              Am
-Hacia nuestras vidas
-
-
-Am
-Desde Cuñaq viene
-               C
-Agüita serpenteando
-         Em               Am
-Por las acequias y en remolinos
-G              Am
-Hacia nuestras vidas
-```
+<strong>G              Am
+</strong><strong>Hacia nuestras vidas
+</strong></code></pre>
 
 ### Estribillo
-```
-Am           C
+
+<pre><code>Am           C
 De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
 Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-```
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong></code></pre>
 
 ```
 Am   Am   C    Em   Am   Am   G
 ```
 
 ### Verso 2
-```
+
+<pre><code>Am
+Una estrellita
+<strong>                C
+</strong><strong>Que alegre me decía
+</strong>              Em        Am
+"Canta, cantorcito, al agüita
+<strong>    G           Am
+</strong><strong>Al agüita madre Cuñaq"
+</strong>
+
 Am
 Una estrellita
-                C
-Que alegre me decía
-              Em        Am
+<strong>                C
+</strong><strong>Que alegre me decía
+</strong>              Em        Am
 "Canta, cantorcito, al agüita
-    G           Am
-Al agüita madre Cuñaq"
-
-
-Am
-Una estrellita
-                C
-Que alegre me decía
-              Em        Am
-"Canta, cantorcito, al agüita
-    G           Am
-Al agüita madre Cuñaq"
-```
+<strong>    G           Am
+</strong><strong>Al agüita madre Cuñaq"
+</strong></code></pre>
 
 ### Estribillo
-```
+
+<pre><code>Am           C
+De cantar gualinas
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
+Toditas mis penas se acabaron
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong>
+
 Am           C
 De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
 Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-
-
-Am           C
-De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
-Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-```
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong></code></pre>
 
 ### Refrain
-```
-Am           Am       C             Em
 
-Am           Am       C             Em
+<pre><code>Am           Am       C             Em
 
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>
+</strong>Am           Am       C             Em
 Heya heya ho...
-Am           Am       C             Em
-Heya heya ho...
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...
+</strong>Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
-Am           Am       C             Em
-Heya heya ho...       Mother Water, heal our soul
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...       Mother Water, heal our soul
+</strong>Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
-Am           Am       C             Em
-Heya heya ho...       Mother Water, heal our soul...
-```
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...       Mother Water, heal our soul...
+</strong></code></pre>
 
 ### Verso 1
-```
+
+<pre><code>Am
+Desde Cuñaq viene
+<strong>               C
+</strong><strong>Agüita serpenteando
+</strong>         Em               Am
+Por las acequias y en remolinos
+<strong>G              Am
+</strong><strong>Hacia nuestras vidas
+</strong>
+
 Am
 Desde Cuñaq viene
-               C
-Agüita serpenteando
-         Em               Am
+<strong>               C
+</strong><strong>Agüita serpenteando
+</strong>         Em               Am
 Por las acequias y en remolinos
-G              Am
-Hacia nuestras vidas
-
-
-Am
-Desde Cuñaq viene
-               C
-Agüita serpenteando
-         Em               Am
-Por las acequias y en remolinos
-G              Am
-Hacia nuestras vidas
-```
+<strong>G              Am
+</strong><strong>Hacia nuestras vidas
+</strong></code></pre>
 
 ### Estribillo
-```
+
+<pre><code>Am           C
+De cantar gualinas
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
+Toditas mis penas se acabaron
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong>
+
 Am           C
 De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
 Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-
-
-Am           C
-De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
-Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-```
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong></code></pre>
 
 ### Verso 2
-```
+
+<pre><code>Am
+Una estrellita
+<strong>                C
+</strong><strong>Que alegre me decía
+</strong>              Em        Am
+"Canta, cantorcito, al agüita
+<strong>    G           Am
+</strong><strong>Al agüita madre Cuñaq"
+</strong>
+
 Am
 Una estrellita
-                C
-Que alegre me decía
-              Em        Am
+<strong>                C
+</strong><strong>Que alegre me decía
+</strong>              Em        Am
 "Canta, cantorcito, al agüita
-    G           Am
-Al agüita madre Cuñaq"
-
-
-Am
-Una estrellita
-                C
-Que alegre me decía
-              Em        Am
-"Canta, cantorcito, al agüita
-    G           Am
-Al agüita madre Cuñaq"
-```
+<strong>    G           Am
+</strong><strong>Al agüita madre Cuñaq"
+</strong></code></pre>
 
 ### Estribillo
-```
+
+<pre><code>Am           C
+De cantar gualinas
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
+Toditas mis penas se acabaron
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong>
+
 Am           C
 De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
+<strong>              Em
+</strong><strong>Y a la vez llorando
+</strong>            G           Am
 Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-
-
-Am           C
-De cantar gualinas
-              Em
-Y a la vez llorando
-            G           Am
-Toditas mis penas se acabaron
-     G            Am
-Pachamama está de fiesta
-
+<strong>     G            Am
+</strong><strong>Pachamama está de fiesta
+</strong>
                   Am
 Pachamama está de fiesta
-```
+</code></pre>
 
 ### Refrain
-```
-Am           Am       C             Em
+
+<pre><code>Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
-Am           Am       C             Em
-Heya heya ho...       Mother Water, heal our soul
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...       Mother Water, heal our soul
+</strong>Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
-Am           Am       C             Em
-Heya heya ho...       Mother Water, heal our soul...
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...       Mother Water, heal our soul...
+</strong>Am           Am       C             Em
 Heya heya ho...
-Am           Am       C             Em
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...
+</strong>Am           Am       C             Em
 Heya heya ho...
-Am           Am       C             Em
-Heya heya ho...
-Am           Am       C             Em
-Heya heya ho...       Mother Water, heal our soul...
-```
+<strong>Am           Am       C             Em
+</strong><strong>Heya heya ho...       Mother Water, heal our soul...
+</strong></code></pre>
+
+{% embed url="https://tabs.ultimate-guitar.com/tab/4300562" %}

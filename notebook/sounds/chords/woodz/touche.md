@@ -14,154 +14,153 @@
 
 ## Touché Chords
 
-by [WOODZ](https://www.ultimate-guitar.com/artist/woodz_612527) feat. [MOON (문)](https://www.ultimate-guitar.com/artist/2795012)&#x20;
-
+by [WOODZ](https://www.ultimate-guitar.com/artist/woodz_612527) feat. [MOON (문)](https://www.ultimate-guitar.com/artist/2795012)
 
 ### Chorus
-```
-                        Am
-Oh oh what you talkin’ about, hey
-Cmaj7                  Dm
-ihaehal suga eopseo ne mari
 
+<pre><code>                        Am
+Oh oh what you talkin’ about, hey
+<strong>Cmaj7                  Dm
+</strong><strong>ihaehal suga eopseo ne mari
+</strong>
 E7           Am
   I mean, oh why?
-       Cmaj7          Dm
-wae neowa nae daehwae ongiga eopseo
- E7
+<strong>       Cmaj7          Dm
+</strong><strong>wae neowa nae daehwae ongiga eopseo
+</strong> E7
 (I don’t love you anymore)
-
-Touché
-```
+<strong>
+</strong><strong>Touché
+</strong></code></pre>
 
 ### Bridge
-```
-Am   Cmaj7             Dm
-Oh baby, have you ever loved me?
-              E7
-Why don’t you love me? naneun geujeo
-Am   Cmaj7         Dm             E
-ne mame naega sara isseotgireul baraesseo
 
-‘Tic tok’
-```
+<pre><code>Am   Cmaj7             Dm
+Oh baby, have you ever loved me?
+<strong>              E7
+</strong><strong>Why don’t you love me? naneun geujeo
+</strong>Am   Cmaj7         Dm             E
+ne mame naega sara isseotgireul baraesseo
+<strong>
+</strong><strong>‘Tic tok’
+</strong></code></pre>
 
 ### Hook
-```
-Am                Cmaj7
+
+<pre><code>Am                Cmaj7
     yunanhi keun shigye sorido
-Dm               E7
-    nae shimjang sorie muchigo
-Am              Cmaj7
+<strong>Dm               E7
+</strong><strong>    nae shimjang sorie muchigo
+</strong>Am              Cmaj7
     pyojeongeul boahani imi neon
-Dm           E7
-   (imi neon)
-```
+<strong>Dm           E7
+</strong><strong>   (imi neon)
+</strong></code></pre>
 
 ### Chorus
-```
-                        Am
-Oh oh what you talkin’ about, hey
-Cmaj7                  Dm
-ihaehal suga eopseo ne mari
-E7           Am
-  I mean, oh why?
-       Cmaj7          Dm
-wae neowa nae daehwae ongiga eopseo
-E
-(I don’t love you anymore)
 
-Touché
-```
+<pre><code>                        Am
+Oh oh what you talkin’ about, hey
+<strong>Cmaj7                  Dm
+</strong><strong>ihaehal suga eopseo ne mari
+</strong>E7           Am
+  I mean, oh why?
+<strong>       Cmaj7          Dm
+</strong><strong>wae neowa nae daehwae ongiga eopseo
+</strong>E
+(I don’t love you anymore)
+<strong>
+</strong><strong>Touché
+</strong></code></pre>
 
 ### Croon
-```
+
+<pre><code>Am     Cmaj7        Dm     E7
+Oh tarirata tarirariro tararata
+<strong>
+</strong><strong>Touché
+</strong>
 Am     Cmaj7        Dm     E7
 Oh tarirata tarirariro tararata
-
-Touché
-
-Am     Cmaj7        Dm     E7
-Oh tarirata tarirariro tararata
-
-Touché
-```
+<strong>
+</strong><strong>Touché
+</strong></code></pre>
 
 ### Verse (WOODZ)
-```
-Am          Cmaj7                     Dm
+
+<pre><code>Am          Cmaj7                     Dm
   I’ll be better than now, don’t care babe
-        E7                  Am
-neoegen jungyohaji aneun munje
-             Cmaj7                   Dm
+<strong>        E7                  Am
+</strong><strong>neoegen jungyohaji aneun munje
+</strong>             Cmaj7                   Dm
 I know that, you can’t feel anything babe
-                 E                       N.C.
-For example: You don’t know what love is...  Am I wrong?
-```
+<strong>                 E                       N.C.
+</strong><strong>For example: You don’t know what love is...  Am I wrong?
+</strong></code></pre>
 
 ### Hook
-```
-Am             Cmaj7
+
+<pre><code>Am             Cmaj7
   yunanhi keun shigye sorido
-Dm             E7
-  nae shimjang sorie muchigo
-Am            Cmaj7
+<strong>Dm             E7
+</strong><strong>  nae shimjang sorie muchigo
+</strong>Am            Cmaj7
   pyojeongeul boahani imi neon
-Dm          E
-  (imi neon)
-```
+<strong>Dm          E
+</strong><strong>  (imi neon)
+</strong></code></pre>
 
 ### Chorus
-```
-                        Am
+
+<pre><code>                        Am
 Oh oh what you talkin’ about, hey
-Cmaj7                  Dm
-ihaehal suga eopseo ne mari
-E7           Am
+<strong>Cmaj7                  Dm
+</strong><strong>ihaehal suga eopseo ne mari
+</strong>E7           Am
   I mean, oh why?
-       Cmaj7          Dm              E
-wae neowa nae daehwae ongiga eopseo
-```
+<strong>       Cmaj7          Dm              E
+</strong><strong>wae neowa nae daehwae ongiga eopseo
+</strong></code></pre>
 
 ### Verse (MOON)
-```
-           Dm                     Am
+
+<pre><code>           Dm                     Am
 nan ije amugeotto neukkil suga eopseo
-         Dm
-nunape boiji anneun geon
-     E7                    Dm
+<strong>         Dm
+</strong><strong>nunape boiji anneun geon
+</strong>     E7                    Dm
 tto mideul su eopseo (no more)
-               Am                Dm
-minneundamyeon ojik nae gibunman mitji
-              Am                    Dm         Am
+<strong>               Am                Dm
+</strong><strong>minneundamyeon ojik nae gibunman mitji
+</strong>              Am                    Dm         Am
 nae shimjange saekkgareun bitbaraen sajin sok
 
 
-               Dm                  Am       Dm
-unneun eolgure misodo geomeunsaegeuro muldeuryeo
-            Am             E7               E
+<strong>               Dm                  Am       Dm
+</strong><strong>unneun eolgure misodo geomeunsaegeuro muldeuryeo
+</strong>            Am             E7               E
 jinjihan ne maltudo nareul umjigil suga eopseo
-
-Touché
-```
+<strong>
+</strong><strong>Touché
+</strong></code></pre>
 
 ### Croon
-```
-Am     Cmaj7        Dm      E7
+
+<pre><code>Am     Cmaj7        Dm      E7
 Oh tarirata tarirariro tararata
-
-Touché
-
+<strong>
+</strong><strong>Touché
+</strong>
 Am     Cmaj7        Dm      E
 Oh tarirata tarirariro tararata
-
-Touché
-
+<strong>
+</strong><strong>Touché
+</strong>
 Am     Cmaj7        Dm      E
 Oh tarirata tarirariro tararata
-
-Touché
-
+<strong>
+</strong><strong>Touché
+</strong>
 Am     Cmaj7        Dm      E7
 Oh tarirata tarirariro tararata
-```
+</code></pre>
