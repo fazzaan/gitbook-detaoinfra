@@ -25,16 +25,18 @@ G--||------------|---2--------|---2--------||------------|---2--------|---2-----
 D--||---------2--|---------2--|---------2--||---------2--|---------2--|---------2--||
 A--||---0--------|------------|------------||---0--------|------------|------------||
 E--||------------|------------|------------||------------|------------|------------||
+```
 
-
-[Intro]
+## Intro
+```
 Am          Em
 F           Em
 Am          Em
 F           Em
+```
 
-
-[Verse 1]
+## Verse 1
+```
       Am            Em
 Wakan Tanka, Gran Espirito
     F          Em
@@ -43,17 +45,18 @@ Agradezco, Pachamama
 Wakan Tanka, Tunkashila
     F           Em
 Agradezco, Pachamama
-
-
+```
+```
       F
 En el cielo,
                     Em
 Con los pájaros que vuelan
          E  E7  E
 Las oraciones
+```
 
-
-[Chorus 1]
+## Chorus 1
+```
 E7 Am   Em    G           F
 Y amor,    misterio de la luna
    Am   Em    G         F
@@ -62,9 +65,10 @@ Y amor,    misterio de la luna
   Amor,       dame dame fuerza
    Am   Em    G       F
   Amor,    confía medicina
+```
 
-
-[Verse 2]
+## Verse 2
+```
           Am            Em
 I crossed over, anxious spirit
         F                 Em
@@ -73,17 +77,18 @@ Lost my knowing, confused senses
 Ancient voices, spill their secrets
        F                   Em
 Taking footsteps, with our Mother
-
-
+```
+```
       F
 All related,
        Em
 Broken hearted
           E  E7 E
 No more darkness
+```
 
-
-[Chorus 2]
+## Chorus 2
+```
 E7        Am   Em  G            F
 With this love,    we are all related
           Am   Em  G            F
@@ -92,8 +97,8 @@ With this love,    we are all related
   In this love,    we are all related
           Am   Em  G            F
        In love,      give  me   strength in this —
-
-
+```
+```
 Am             Em     G              F
 Na-na-na-na-na na-na, na-na-na-na-na Yaa-hey
 Am             Em     G              F
@@ -102,17 +107,19 @@ Am             Em     G              F
 Na-na-na-na-na na-na, na-na-na-na-na Yaa-hey
 Am             Em     G              F
 Na-na-na-na-na na-na, we  are all  related
+```
 
-
-[Interlude]
+## Interlude
+```
 Am   Em   G    F
 Am   Em   G    F
 Am   Em   G    F
 Am   Em   G    F
 F    F    F    F    F
+```
 
-
-[Bridge]
+## Bridge
+```
 C
 Cura, cura, cura, cura,
 Bb                      Am   Em
@@ -133,8 +140,10 @@ cura (cura, cura, cura) mi
 
     E  E7  E
 Medicina
+```
 
-[Chorus 1]
+## Chorus 1
+```
 E7 Am   Em    G           F
 Y amor,    misterio de la luna
    Am   Em    G         F
@@ -143,10 +152,10 @@ Y amor,    misterio de la luna
   Amor,       dame dame fuerza
    Am   Em    G       F
   Amor,    confía medicina
+```
 
-
-
-[Chorus 2]
+## Chorus 2
+```
         Am   Em   G            F
         ·    ·    We are all related
         Am   Em   G            F
@@ -155,8 +164,9 @@ Y amor,    misterio de la luna
 In this love,     we are all related
         Am   Em   G            F
      In love,       give  me   strength in this —
-
-Am
+```
+```
+ (Am)
 (love)
 Am             Em     G              F
 Na-na-na-na-na na-na, na-na-na-na-na Yaa-hey
@@ -166,9 +176,10 @@ Am             Em     G              F
 Na-na-na-na-na na-na, na-na-na-na-na Yaa-hey
 Am             Em     G              F
 Na-na-na-na-na na-na, we  are all  related
+```
 
-
-[Outro]
+## Outro]
+```
 F
 [x13 bars]
 Am
