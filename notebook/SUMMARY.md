@@ -22,6 +22,9 @@
   * [Ripples (2019)](poetry-rap-lyrics/poems/ripples-2019.md)
   * [Okeanós (2019)](poetry-rap-lyrics/poems/okeanos-2019.md)
   * [Healing (2019)](poetry-rap-lyrics/poems/healing-2019.md)
+* [Chords](poetry-rap-lyrics/chords/README.md)
+  * [Evanescence](poetry-rap-lyrics/chords/evanescence/README.md)
+    * [What You Want](poetry-rap-lyrics/chords/evanescence/what-you-want.md)
 
 ## Discussion
 
