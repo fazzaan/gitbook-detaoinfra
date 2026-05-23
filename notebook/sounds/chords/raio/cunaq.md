@@ -16,7 +16,7 @@ description: >-
 {% endcolumn %}
 {% endcolumns %}
 
-&#x20;[chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/4300562)&#x20;
+{% embed url="https://tabs.ultimate-guitar.com/tab/4300562" %}
 
 ## Cuñaq Chords
 

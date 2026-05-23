@@ -10,7 +10,7 @@
 {% endcolumn %}
 {% endcolumns %}
 
-[chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/nessi-gomes/all-related-chords-4255996)&#x20;
+{% embed url="https://tabs.ultimate-guitar.com/tab/nessi-gomes/all-related-chords-4255996" %}
 
 ## All Related Chords
 

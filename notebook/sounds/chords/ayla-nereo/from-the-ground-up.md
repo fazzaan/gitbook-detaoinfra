@@ -1,9 +1,5 @@
 # From The Ground Up
 
-by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)
-
-my [chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/ayla-nereo/from-the-ground-up-chords-3368609)
-
 {% columns %}
 {% column %}
 2020 - 10 - 09
@@ -13,6 +9,12 @@ my [chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/ayla-ner
 9th of October 2020
 {% endcolumn %}
 {% endcolumns %}
+
+{% embed url="https://tabs.ultimate-guitar.com/tab/ayla-nereo/from-the-ground-up-chords-3368609" %}
+
+## From The Ground Up Chords
+
+by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)&#x20;
 
 ### Intro
 

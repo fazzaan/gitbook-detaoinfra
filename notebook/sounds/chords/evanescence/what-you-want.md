@@ -10,19 +10,13 @@
 {% endcolumn %}
 {% endcolumns %}
 
-{% hint style="info" %}
-My version — on UltimateGuitar (personal tab, unpublished)&#x20;
-
-[https://tabs.ultimate-guitar.com/user/tab/view?h=HQEAeYpYZ3O5Q70GNWjGtGTK\&tab\_id=30450071](https://tabs.ultimate-guitar.com/user/tab/view?h=HQEAeYpYZ3O5Q70GNWjGtGTK\&tab_id=30450071)&#x20;
-{% endhint %}
-
-chord page on ultimate guitar&#x20;
+{% embed url="https://tabs.ultimate-guitar.com/tab/evanescence/what-you-want-chords-6323054" %}
 
 ## What You Want Chords
 
 by [Evanescence](https://www.ultimate-guitar.com/artist/evanescence_3409)&#x20;
 
-## Verse 1
+### Verse 1
 
 ```
 [N.C.]
@@ -51,7 +45,7 @@ Stand and face the unknown
 (Got to remember who you really are)
 ```
 
-## Link 1
+### Link 1
 
 ```
 Em        Bm          G
@@ -60,7 +54,7 @@ Em        Bm          G
 like a pale reflection
 ```
 
-## Chorus 1
+### Chorus 1
 
 ```
 B                        D
@@ -79,7 +73,7 @@ We can break through
 B5 - B5 C5 - C5
 ```
 
-## Verse 2
+### Verse 2
 
 ```
    B5
@@ -99,7 +93,7 @@ Till you find what you're looking for
 (Got to remember who you really are)
 ```
 
-## Link 2
+### Link 2
 
 ```
 Em          Bm             G
@@ -108,7 +102,7 @@ Em          Bm             G
 Screams that I have failed you
 ```
 
-## Chorus 2
+### Chorus 2
 
 ```
 B5           B           D
@@ -132,7 +126,7 @@ I'm everything you can't control
 There must be a way to believe
 ```
 
-## Bridge
+### Bridge
 
 ```
 Bm                   D
@@ -149,7 +143,7 @@ F#       A       E       G
 down, do-own, do-own, do-own
 ```
 
-## Chorus 3
+### Chorus 3
 
 ```
 Bm                        D
@@ -186,7 +180,7 @@ There must be a way to believe
 We can break through
 ```
 
-## Outro
+### Outro
 
 ```
 B5 - B5 C5 - C5 B5
@@ -195,3 +189,4 @@ B5                 (Bm)
    Remember who you really are
 ```
 
+{% embed url="https://tabs.ultimate-guitar.com/tab/evanescence/what-you-want-chords-6323054" %}
