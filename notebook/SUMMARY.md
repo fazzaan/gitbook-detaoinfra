@@ -25,6 +25,16 @@
 * [Chords](poetry-rap-lyrics/chords/README.md)
   * [Evanescence](poetry-rap-lyrics/chords/evanescence/README.md)
     * [What You Want](poetry-rap-lyrics/chords/evanescence/what-you-want.md)
+  * [Raio](poetry-rap-lyrics/chords/raio/README.md)
+    * [Cuñaq](poetry-rap-lyrics/chords/raio/cunaq.md)
+  * [Ayla Nereo](poetry-rap-lyrics/chords/ayla-nereo/README.md)
+    * [From The Ground Up](poetry-rap-lyrics/chords/ayla-nereo/from-the-ground-up.md)
+  * [Woodz](poetry-rap-lyrics/chords/woodz/README.md)
+    * [Touché](poetry-rap-lyrics/chords/woodz/touche.md)
+  * [Lua Maria](poetry-rap-lyrics/chords/lua-maria/README.md)
+    * [Aguilita](poetry-rap-lyrics/chords/lua-maria/aguilita.md)
+  * [Nessi Gomes](poetry-rap-lyrics/chords/nessi-gomes/README.md)
+    * [All Related](poetry-rap-lyrics/chords/nessi-gomes/all-related.md)
 
 ## Discussion
 
