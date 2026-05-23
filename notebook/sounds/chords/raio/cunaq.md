@@ -24,8 +24,9 @@ by [Raio](https://www.ultimate-guitar.com/artist/raio_1710461) & [Sophie Sofree]
 
 _Transcription of Cunaq by Raio and Sophie Sofree, found at_ [_soundcloud.com/pachamantra/cunaq-feat-sophie-sofree_](https://soundcloud.com/pachamantra/cunaq-feat-sophie-sofree)&#x20;
 
+
+### Verso 1
 ```
-[Verso 1]
 Am
 Desde Cuñaq viene
                C
@@ -44,9 +45,10 @@ Agüita serpenteando
 Por las acequias y en remolinos
 G              Am
 Hacia nuestras vidas
+```
 
-
-[Estribillo]
+### Estribillo
+```
 Am           C
 De cantar gualinas
               Em
@@ -55,12 +57,14 @@ Y a la vez llorando
 Toditas mis penas se acabaron
      G            Am
 Pachamama está de fiesta
+```
 
+```
+Am   Am   C    Em   Am   Am   G
+```
 
-Am   Am   C    Em   Am   Am G
-
-
-[Verso 2]
+### Verso 2
+```
 Am
 Una estrellita
                 C
@@ -79,9 +83,10 @@ Que alegre me decía
 "Canta, cantorcito, al agüita
     G           Am
 Al agüita madre Cuñaq"
+```
 
-
-[Estribillo]
+### Estribillo
+```
 Am           C
 De cantar gualinas
               Em
@@ -100,9 +105,10 @@ Y a la vez llorando
 Toditas mis penas se acabaron
      G            Am
 Pachamama está de fiesta
+```
 
-
-[Refrain]
+### Refrain
+```
 Am           Am       C             Em
 
 Am           Am       C             Em
@@ -119,9 +125,10 @@ Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
 Am           Am       C             Em
 Heya heya ho...       Mother Water, heal our soul...
+```
 
-
-[Verso 1]
+### Verso 1
+```
 Am
 Desde Cuñaq viene
                C
@@ -140,9 +147,10 @@ Agüita serpenteando
 Por las acequias y en remolinos
 G              Am
 Hacia nuestras vidas
+```
 
-
-[Estribillo]
+### Estribillo
+```
 Am           C
 De cantar gualinas
               Em
@@ -161,9 +169,10 @@ Y a la vez llorando
 Toditas mis penas se acabaron
      G            Am
 Pachamama está de fiesta
+```
 
-
-[Verso 2]
+### Verso 2
+```
 Am
 Una estrellita
                 C
@@ -182,9 +191,10 @@ Que alegre me decía
 "Canta, cantorcito, al agüita
     G           Am
 Al agüita madre Cuñaq"
+```
 
-
-[Estribillo]
+### Estribillo
+```
 Am           C
 De cantar gualinas
               Em
@@ -206,9 +216,10 @@ Pachamama está de fiesta
 
                   Am
 Pachamama está de fiesta
+```
 
-
-[Refrain]
+### Refrain
+```
 Am           Am       C             Em
 Heya heya ho...       Mother Water, cleanse our soul
 Am           Am       C             Em
