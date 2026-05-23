@@ -39,15 +39,15 @@ B5 - B5 C5 - C5 B5 - B5
 ```
 
 ```
-   B5
+    B5
 Do what you what you want
-     C5                    B5
+        C5                   B5
 Your world's closing in on you now
-     A
+          A
 (It isn't over)
 B5            C5       B5
 Stand and face the unknown
-                           A
+                         A
 (Got to remember who you really are)
 ```
 
