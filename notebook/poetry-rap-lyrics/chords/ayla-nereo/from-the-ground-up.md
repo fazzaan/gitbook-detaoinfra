@@ -1,5 +1,9 @@
 # From The Ground Up
 
+by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)
+
+my [chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/ayla-nereo/from-the-ground-up-chords-3368609)
+
 {% columns %}
 {% column %}
 2020 - 10 - 09
@@ -10,18 +14,14 @@
 {% endcolumn %}
 {% endcolumns %}
 
-[chord page on ultimate guitar](https://tabs.ultimate-guitar.com/tab/ayla-nereo/from-the-ground-up-chords-3368609)&#x20;
+### Intro
 
-## From The Ground Up Chords
-
-by [Ayla Nereo](https://www.ultimate-guitar.com/artist/ayla_nereo_65181)&#x20;
-
-[Intro]
 ```
 Bm    D/A    G  Em
 ```
 
-# Verse 1
+### Verse 1
+
 ```
       Bm              D/A
 As a wave across the land
@@ -55,7 +55,8 @@ I am not stopping if you are not changing it
 Here are my hands let's    see what they're makin'..."
 ```
 
-# Chorus
+### Chorus
+
 ```
 Bm                A
   In the morning,   in the rise up,
@@ -80,11 +81,13 @@ From the ground up...
 ```
 
 ### Break
+
 ```
 Bm    D/A    G  Em  Bm
 ```
 
-# Verse 2
+### Verse 2
+
 ```
                D/A             G      Em  Bm
 You hold the spade to turn new   soil
@@ -107,7 +110,8 @@ I am not stopping if you are not changing it
 Here are my hands let's    see what they're makin'.."
 ```
 
-# Chorus
+### Chorus
+
 ```
 Bm                A
   In the morning,   in the rise up,
@@ -131,7 +135,8 @@ From the crowd up we will raise  it
 From the ground up...
 ```
 
-### [Break with trumpet]
+### Break with trumpet
+
 ```
 Bm    D/A    Bm    D/A
 
@@ -140,7 +145,8 @@ G  Em  G  Em
 E    E    Bm    Bm
 ```
 
-# Bridge
+### Bridge
+
 ```
 A        Em     G         Bm
 In this life we   see so many things and
@@ -154,7 +160,8 @@ A         Em      G
 to make it...
 ```
 
-# Chorus
+### Chorus
+
 ```
 Bm                A
   In the morning,   in the rise up,
