@@ -27,6 +27,8 @@
     * [From The Ground Up](sounds/chords/ayla-nereo/from-the-ground-up.md)
   * [Evanescence](sounds/chords/evanescence/README.md)
     * [What You Want](sounds/chords/evanescence/what-you-want.md)
+  * [Ibeyi](sounds/chords/ibeyi/README.md)
+    * [Aset](sounds/chords/ibeyi/aset.md)
   * [Lua Maria](sounds/chords/lua-maria/README.md)
     * [Aguilita](sounds/chords/lua-maria/aguilita.md)
   * [Nessi Gomes](sounds/chords/nessi-gomes/README.md)
