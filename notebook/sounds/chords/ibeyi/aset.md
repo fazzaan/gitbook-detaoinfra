@@ -18,7 +18,7 @@ Not yet published
 
 ## Aset Chords
 
-by [Ibeyi](https://www.ultimate-guitar.com/artist/ibeyi_57176)&#x20;
+by [Ibeyi](https://www.ultimate-guitar.com/artist/ibeyi_57176)
 
 ```
 B and C all the way through
@@ -28,95 +28,103 @@ C - xx555x
 ```
 
 ### Looped Riff tab
-```
-e - |----------|----------|----------|----------|
-B - |-4--------|-4--------|-5--------| 5------5-|
-G - |-----4----|-----4----|-----5----|-----5----|
-D - |--------4-|--------4-|--------5-|----------|
-A - |----------|----------|----------|----------|
-E - |----------|----------|----------|----------|
-```
+
+<pre><code>e - |----------|----------|----------|----------|
+<strong>B - |-4--------|-4--------|-5--------| 5------5-|
+</strong>G - |-----4----|-----4----|-----5----|-----5----|
+<strong>D - |--------4-|--------4-|--------5-|----------|
+</strong>A - |----------|----------|----------|----------|
+<strong>E - |----------|----------|----------|----------|
+</strong></code></pre>
 
 ### Verse 1
+
 _Lisa-Kaindé Diaz_
-```
-B                      C
-(                   )
-B                      C
+
+<pre><code><strong>B                      C
+</strong><strong>(                   )
+</strong>B                      C
    I am Osiris rising
-B                                   C
-   I kept stealing their knowledge
-B                         C
+<strong>B                                   C
+</strong><strong>   I kept stealing their knowledge
+</strong>B                         C
    Now I know divination
-B                                C
-   As I throw all the shells in
-```
+<strong>B                                C
+</strong><strong>   As I throw all the shells in
+</strong></code></pre>
 
 ### Pre-Chorus
+
 _Lisa-Kaindé Diaz_
-```
- B       C
+
+<pre><code> B       C
 (Ooh, oo-ooh) Dejado por muerto
- B       C
-(Ooh, oo-ooh) Yo fui tu milagro
- B       C
+<strong> B       C
+</strong><strong>(Ooh, oo-ooh) Yo fui tu milagro
+</strong> B       C
 (Ooh, oo-ooh) Cuestión de destino
- B       C
-(Ooh, oo-ooh) Esto es amor eterno
-```
+<strong> B       C
+</strong><strong>(Ooh, oo-ooh) Esto es amor eterno
+</strong></code></pre>
 
 ### Chorus
+
 _Naomi Diaz_
-```
-B       C                   B
+
+<pre><code>B       C                   B
    Ay, amor, ay, amor, ay, amor
-        C                   B
+<strong>        C                   B
+</strong><strong>   Ay, amor, ay, amor, ay, amor
+</strong>        C                   B
    Ay, amor, ay, amor, ay, amor
-        C                   B
-   Ay, amor, ay, amor, ay, amor
-        C
-   Ay, amor, ay, amor
-```
+<strong>        C
+</strong><strong>   Ay, amor, ay, amor
+</strong></code></pre>
 
 ### Verse 2
+
 _Lisa-Kaindé Diaz_
-```
-B                              C
+
+<pre><code>B                              C
    Soy incendio en tu bosque
-B                              C
-   Sin mi luz, no eres nadie
-B                                  C
+<strong>B                              C
+</strong><strong>   Sin mi luz, no eres nadie
+</strong>B                                  C
    Sin mi amor, ¿quién te quiere?
-B                                  C
-   Sin mi amor, ¿quién te quiere?
-```
+<strong>B                                  C
+</strong><strong>   Sin mi amor, ¿quién te quiere?
+</strong></code></pre>
 
 ### Pre-Chorus
+
 _Lisa-Kaindé Diaz_
-```
- B       C
+
+<pre><code> B       C
 (Ooh, oo-ooh) Dejado por muerto
- B       C
-(Ooh, oo-ooh) Yo fui tu milagro
- B       C
+<strong> B       C
+</strong><strong>(Ooh, oo-ooh) Yo fui tu milagro
+</strong> B       C
 (Ooh, oo-ooh) Cuestión de destino
- B       C
-(Ooh, oo-ooh) Esto es amor eterno
-```
+<strong> B       C
+</strong><strong>(Ooh, oo-ooh) Esto es amor eterno
+</strong></code></pre>
 
 ### Chorus
+
 _Naomi Diaz_
-```
-B       C                   B
+
+<pre><code>B       C                   B
    Ay, amor, ay, amor, ay, amor
-        C                   B
+<strong>        C                   B
+</strong><strong>   Ay, amor, ay, amor, ay, amor
+</strong>        C                   B
    Ay, amor, ay, amor, ay, amor
-        C                   B
-   Ay, amor, ay, amor, ay, amor
-        C
-   Ay, amor, ay, amor
-```
+<strong>        C
+</strong><strong>   Ay, amor, ay, amor
+</strong></code></pre>
+
 ( Repeat until end )
+
 ```
 B  C  B  C  B  C
 ```
